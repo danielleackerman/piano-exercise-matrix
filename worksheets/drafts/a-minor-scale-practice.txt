@@ -1,0 +1,244 @@
+A MINOR SCALE PRACTICE WORKSHEET
+==========================================================
+
+KEY: A Minor (no sharps or flats — parallel key of C major)
+RANGE: Always aim for 4 octaves across the full keyboard.
+
+Note on minor scales: Practice the harmonic and melodic forms, not just the natural minor. The natural minor sounds identical to C major starting from A — the raised tones are what give minor scales their character and their technical value.
+
+
+----------------------------------------------------------
+1. SCALE – HARMONIC MINOR (Parallel Motion)
+----------------------------------------------------------
+Play A harmonic minor up and down in parallel motion (both hands moving in the same direction).
+
+The harmonic minor raises the 7th degree: G becomes G#.
+
+Why A minor feels comfortable: The G# gives the fingers a black-key landmark, making hand position more natural than all-white-key scales.
+
+Tip: Start slow, prioritize evenness over speed.
+
+
+----------------------------------------------------------
+2. SCALE – HARMONIC MINOR (Contrary Motion)
+----------------------------------------------------------
+Play A harmonic minor with hands moving in opposite directions — one ascending, one descending simultaneously.
+
+Tip: Harder than parallel motion. Excellent brain training. Add contrary motion to any exercise below for an extra challenge.
+
+
+----------------------------------------------------------
+3. SCALE – MELODIC MINOR (Parallel Motion)
+----------------------------------------------------------
+Play A melodic minor up and down in parallel motion.
+
+Ascending: Raise both the 6th and 7th degrees — F becomes F#, G becomes G#.
+Descending: Remove all sharps and descend as natural A minor (A-G-F-E-D-C-B-A).
+
+This asymmetry is what makes the melodic minor uniquely valuable for training.
+
+
+----------------------------------------------------------
+4. SCALE – MELODIC MINOR (Contrary Motion)
+----------------------------------------------------------
+Play A melodic minor in contrary motion.
+
+Advanced variation: In contrary motion, one hand plays the melodic form (with sharps) while the other simultaneously plays the natural form (without sharps). Two different patterns happening at the same time — then reverse which hand plays which.
+
+This is harder than major-scale contrary motion because the ascending and descending forms differ.
+
+
+----------------------------------------------------------
+5. SCALE IN THIRDS
+----------------------------------------------------------
+Play the A minor scale in intervals of a third (two notes a third apart, played together or in succession).
+
+Tip: Thirds immediately expose left-hand weakness. If the left hand feels slower than the right, isolate it. Always listen to your left hand and accommodate the right hand to match it — not the other way around.
+
+
+----------------------------------------------------------
+6. ACCENT / RHYTHMIC VARIATIONS (for scales)
+----------------------------------------------------------
+Use these to improve fluidity and evenness:
+
+a) Accent every single note — apply extra weight to each note individually.
+b) Accent every second note — creates a grouped, rolling feel.
+c) Accent every fourth note — builds longer phrase shapes.
+d) Triplet groupings — practice the scale organized in groups of three.
+
+Apply these accent patterns to any scale exercise above. Try them with the harmonic minor in particular — the G# changes the physical feel of each grouping.
+
+Important: Stay relaxed. This is your warm-up. You should be very comfortable, not tense.
+
+
+----------------------------------------------------------
+7. SCALE IN TENTHS (using triplets)
+----------------------------------------------------------
+Play the scale in tenths (an octave + a third between the hands) using triplet rhythm.
+
+A tenth is simply a third plus an octave — the right hand plays one octave higher than the third position.
+
+Note: This is significantly harder. Practice ascending AND descending. Try it with both harmonic and melodic minor forms.
+
+
+----------------------------------------------------------
+8. ARPEGGIOS (Tonic – A minor: A-C-E)
+----------------------------------------------------------
+Play broken triads (A-C-E) across 4 octaves, with inversions.
+
+Fingering (root position):
+- Right hand: 1-2-3-1-2-3-5
+- Left hand: 5-4-2-1-4-2-1
+
+Fingering (1st inversion, C-E-A):
+- Right hand: 1-2-4-1-2-4-5
+- Left hand: 5-4-2-1-4-2-1
+
+Fingering (2nd inversion, E-A-C):
+- Right hand: 1-2-4-1-2-4-5
+- Left hand: 5-4-2-1-4-2-1
+
+Technique tips:
+- Feel the natural weight of your arm dropping into the keys.
+- Move in circular motions — stay grounded and free, not rigid.
+- Increase speed gradually.
+
+
+----------------------------------------------------------
+9. BROKEN CHORDS (Tonic – A minor)
+----------------------------------------------------------
+Play the tonic chord in broken form across the keyboard.
+
+A broken chord rearranges the chord tones out of sequential order, jumping between intervals rather than climbing straight through them. Unlike an arpeggio (A-C-E-A-C-E), the broken chord pattern skips around within the chord shape:
+
+Root position pattern: A-E-C-A-E-C-A-E (repeating across octaves)
+
+Fingering (root position):
+- Right hand: 1-5-3-1-5-3
+- Left hand: 5-1-3-5-1-3
+
+If it feels uncomfortable:
+- Practice left hand separately first.
+- The left hand naturally wants to lean right on the keyboard — be aware of this pull.
+
+
+----------------------------------------------------------
+10. CHORDS (Tonic – A minor)
+----------------------------------------------------------
+Play solid chords (all notes struck together), with inversions, across three or more octaves.
+
+Warm-up method:
+- First play just the OCTAVE (A to A).
+- Then add the middle voices (C, E) one at a time.
+- This activates the inner fingers while the octave frame stays stable.
+
+Technique tips:
+- Listen to the inner voices. Many players only hear the top note — train yourself to hear and activate the middle voices.
+- Prepare every chord: the moment you play one chord, immediately jump and position for the next. This trains the muscles between thumb and fifth finger.
+- If full chords (with added octave) are too difficult or your hand is smaller, play the same exercise with smaller three-note chords.
+
+Increasing tempo:
+- Start slow, then gradually increase speed.
+- Speed helps you feel the muscles working. Some burn is normal and good.
+
+
+----------------------------------------------------------
+11. LONG ARPEGGIOS (Tonic – A minor)
+----------------------------------------------------------
+Play extended arpeggios across the full keyboard.
+
+Fingering is the same as Exercise 8 (short arpeggios), extended continuously across octaves:
+- Right hand (root position): 1-2-3-1-2-3-1-2-3-1-2-3-5
+- Left hand (root position): 5-4-2-1-4-2-1-4-2-1-4-2-1
+
+Practice method:
+- Separate hands first — this exposes weaknesses you hide when both hands play together.
+- The right hand typically covers for left hand insecurities. Train the left hand independently.
+- This is an excellent exercise for training the thumb crossing.
+
+Variations:
+- Root position, 1st inversion, 2nd inversion
+- Contrary motion (hands moving in opposite directions)
+
+Technique difference from solid chords: Solid chords train you to grab and strengthen. Long arpeggios train you to loosen up and transfer your arm weight into the keyboard for a full, beautiful sound.
+
+Tip: Play as legato as possible. Always think about preparation — position the hand for the next shape before you arrive.
+
+
+----------------------------------------------------------
+12. LONG SIX-CHORD ARPEGGIOS
+----------------------------------------------------------
+Play extended arpeggios through a cycle of six chords in sequence. This builds endurance and trains rapid hand-shape changes across the keyboard.
+
+The six-chord formula for A minor:
+1) A major — I (tonic major, root position)
+2) A minor — i (tonic minor, root position)
+3) F major — VI (1st inversion — "sixth chord")
+4) F# minor — #vi (1st inversion)
+5) D major — IV (2nd inversion — "six-four chord")
+6) D minor — iv (2nd inversion)
+
+Tip: The roman numeral pattern is always I – i – VI – #vi – IV – iv. This formula works in any key — just build the same relationships from the new tonic.
+
+Practice method:
+- Play each chord as a long arpeggio across the keyboard, then move immediately to the next chord.
+- Don't be afraid to practice left hand alone — it won't be as clean as the right hand, but it is essential.
+- All about preparation: position your thumb and hand shape for the next chord while still finishing the current one.
+
+Why this works: Playing six different chord shapes in a continuous chain tires the hands in a way that isolated exercises do not. Once you feel the muscles start to burn, you know the exercise is doing its job.
+
+Note: This formula adapts to any key. You can also play these as simple arpeggios or broken chords instead of long arpeggios.
+
+
+----------------------------------------------------------
+13. DOMINANT CHORD EXERCISES (E7: E-G#-B-D)
+----------------------------------------------------------
+Repeat exercises 8–11 using the dominant 7th chord (V7 of A minor = E7).
+
+Why it matters:
+- The E7 chord requires a bigger hand stretch (4 notes instead of 3).
+- Don't play these at the very start of your warm-up — hands need to be loose first.
+
+Warm-up method (same principle as tonic chords):
+- Play the octave first.
+- Then add the three middle voices — even more stretch than before.
+
+Play through all inversions: root, 1st, 2nd, 3rd.
+
+Apply the same rhythmic/accent variations from Exercise 6.
+
+
+----------------------------------------------------------
+14. DIMINISHED CHORD (on 7th degree: G# diminished)
+----------------------------------------------------------
+Built on the 7th degree of A harmonic minor (G#), using all minor thirds: G#-B-D.
+
+Apply the same arpeggio and chord exercises. (To be expanded in later sessions.)
+
+
+----------------------------------------------------------
+15. CHROMATIC SCALE
+----------------------------------------------------------
+Play the chromatic scale starting from A across the full keyboard.
+
+Variation: Play the chromatic scale in tenths instead of octaves for increased difficulty. Focus on keeping both hands even — don't let one hand rush ahead of the other.
+
+A good finishing exercise to close out a practice session.
+
+
+==========================================================
+GENERAL PRACTICE PRINCIPLES
+==========================================================
+
+- Always play in 4 octaves for serious practice.
+- Start slow, increase tempo gradually.
+- Practice left hand separately — it's almost always weaker.
+- The right hand covers for left hand imperfections. Separate-hand practice exposes the truth.
+- Use contrary motion to make any exercise harder and more useful.
+- Sit at the edge of the bench to let body weight transfer into the keys.
+- Engage the upper back for tone production, not just the arms and hands.
+- Don't tense up — especially avoid lifting the shoulders. This is a warm-up; stay comfortable.
+- Apply rhythmic variations to any exercise for evenness training.
+- Listen to the inner voices — much of music happens in the middle, not just the melody on top.
+- Every exercise trains a different technique: solid chords build strength; long arpeggios build fluidity and weight transfer. Both matter.
+- Be creative with variations. Scales practice works best when you find variety within the structure.
