@@ -1,0 +1,396 @@
+/* ============================================================
+   WORKSHEET DESIGN SYSTEM — Shared Stylesheet
+   Piano Exercise Matrix · Scale Practice Worksheets
+   ============================================================
+   Usage: Link this file in every worksheet HTML page.
+   Print styles are embedded here via @media print.
+   ============================================================ */
+
+/* ── PAGE SETUP ── */
+@page {
+  size: A4;
+  margin: 20mm;
+}
+
+/* ── RESET ── */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ── BASE TYPOGRAPHY ── */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  background: #f9f9f9;
+  color: #1a1a1a;
+  line-height: 1.6;
+  font-size: 15px;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+/* ── PAGE CONTAINER ── */
+.ws-page {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 40px 24px 60px;
+}
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+.ws-header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.ws-header-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: #1a1a1a;
+  letter-spacing: -0.5px;
+}
+
+.ws-header-meta {
+  font-size: 14px;
+  color: #888;
+  margin-top: 6px;
+}
+
+/* ============================================================
+   DOWNLOAD BAR
+   ============================================================ */
+.ws-download-bar {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.ws-download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 18px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #666;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.ws-download-btn:hover {
+  border-color: rgba(180, 40, 40, 0.45);
+  background: rgba(180, 40, 40, 0.05);
+  color: #555;
+}
+
+.ws-download-btn:active {
+  border-color: rgba(180, 40, 40, 0.6);
+  background: rgba(180, 40, 40, 0.08);
+}
+
+.ws-download-btn svg {
+  width: 14px;
+  height: 14px;
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* ============================================================
+   SECTION LABELS
+   Uppercase spaced-letter headings that divide groups of cards.
+   ============================================================ */
+.ws-section-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 16px;
+  margin-top: 36px;
+}
+
+.ws-section-label:first-of-type {
+  margin-top: 0;
+}
+
+/* ============================================================
+   CARDS — Primary exercise containers
+   ============================================================ */
+.ws-card {
+  background: white;
+  border: 1px solid #dddde0;
+  border-radius: 10px;
+  padding: 20px 24px;
+  margin-bottom: 12px;
+  page-break-inside: avoid;
+}
+
+.ws-card-header {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.ws-card-number {
+  font-size: 13px;
+  font-weight: 700;
+  color: #aaa;
+  min-width: 22px;
+}
+
+.ws-card-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.ws-card-body {
+  color: #444;
+  font-size: 14.5px;
+  line-height: 1.65;
+  padding-left: 32px;
+}
+
+.ws-card-body p {
+  margin-bottom: 6px;
+}
+
+.ws-card-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* ============================================================
+   INLINE TYPOGRAPHIC ELEMENTS
+   ============================================================ */
+
+/* Chord / note names — serif bold */
+.ws-chord {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  font-size: 15.5px;
+  color: #1a1a1a;
+  letter-spacing: 0.3px;
+}
+
+/* Fingering badges */
+.ws-fingering {
+  font-size: 13px;
+  font-weight: 500;
+  background: #f0f1f3;
+  padding: 1px 6px;
+  border-radius: 4px;
+  color: #555;
+  white-space: nowrap;
+}
+
+/* ============================================================
+   TIP / TECHNIQUE CALLOUT
+   ============================================================ */
+.ws-tip {
+  background: rgba(74, 144, 217, 0.07);
+  border-radius: 6px;
+  padding: 10px 14px;
+  margin-top: 10px;
+  font-size: 13.5px;
+  color: #555;
+  line-height: 1.55;
+}
+
+.ws-tip-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #4a90d9;
+  margin-bottom: 2px;
+}
+
+.ws-tip p {
+  margin-bottom: 4px;
+}
+
+.ws-tip p:last-child {
+  margin-bottom: 0;
+}
+
+/* ============================================================
+   DIVIDER
+   ============================================================ */
+.ws-divider {
+  height: 1px;
+  background: #dddde0;
+  margin: 28px 0;
+}
+
+/* ============================================================
+   PRINCIPLES CARD — Two-column summary grid
+   ============================================================ */
+.ws-principles-card {
+  background: white;
+  border: 1px solid #dddde0;
+  border-radius: 10px;
+  padding: 24px 28px;
+  margin-top: 12px;
+  page-break-inside: avoid;
+}
+
+.ws-principles-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 28px;
+}
+
+.ws-principle {
+  font-size: 13.5px;
+  color: #555;
+  padding-left: 14px;
+  position: relative;
+  line-height: 1.5;
+}
+
+.ws-principle::before {
+  content: '–';
+  position: absolute;
+  left: 0;
+  color: #bbb;
+}
+
+/* ============================================================
+   HIGHLIGHT / QUOTE CARD — e.g. Chopin hand position
+   ============================================================ */
+.ws-highlight-card {
+  background: rgba(0, 0, 0, 0.015);
+  border: 1px solid #dddde0;
+  border-radius: 10px;
+  padding: 20px 24px;
+  margin-top: 12px;
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+.ws-highlight-card .ws-highlight-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 6px;
+}
+
+.ws-highlight-card p {
+  font-size: 14px;
+  color: #555;
+  max-width: 520px;
+  margin: 0 auto;
+  line-height: 1.55;
+}
+
+.ws-highlight-card .ws-highlight-keys {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  color: #1a1a1a;
+  font-size: 15px;
+  margin-top: 8px;
+  letter-spacing: 2px;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.ws-footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 12px;
+  color: #aaa;
+}
+
+/* ============================================================
+   PRINT / PDF OVERRIDES
+   ============================================================
+   Priority: clean PDF output from browser print.
+   These rules handle background removal, hiding screen-only
+   elements, and ensuring page-break behavior works.
+   ============================================================ */
+@media print {
+  body {
+    background: white;
+    font-size: 14px;
+  }
+
+  .ws-page {
+    padding: 0;
+    max-width: none;
+  }
+
+  /* Hide screen-only elements */
+  .ws-download-bar,
+  .ws-screen-only {
+    display: none !important;
+  }
+
+  /* Ensure cards don't break across pages */
+  .ws-card,
+  .ws-principles-card,
+  .ws-highlight-card {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Allow page breaks before section labels */
+  .ws-section-label {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  /* Keep section label with the card that follows it */
+  .ws-section-label + .ws-card {
+    page-break-before: avoid;
+    break-before: avoid;
+  }
+
+  /* Force page break where explicitly marked */
+  .ws-page-break {
+    page-break-before: always;
+    break-before: page;
+  }
+
+  /* Tighten spacing slightly for print density */
+  .ws-card {
+    margin-bottom: 10px;
+    padding: 16px 20px;
+  }
+
+  .ws-section-label {
+    margin-top: 28px;
+    margin-bottom: 12px;
+  }
+
+  .ws-divider {
+    margin: 22px 0;
+  }
+
+  .ws-header {
+    margin-bottom: 24px;
+  }
+
+  .ws-footer {
+    margin-top: 32px;
+  }
+
+  /* Ensure tip backgrounds print */
+  .ws-tip {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

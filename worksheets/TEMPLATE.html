@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
+  ============================================================
+  WORKSHEET TEMPLATE — Piano Exercise Matrix
+  ============================================================
+  HOW TO USE:
+  1. Copy this file and rename it (e.g. d-major.html).
+  2. Replace all {{PLACEHOLDER}} values with your content.
+  3. Duplicate .ws-card blocks for each exercise.
+  4. Add/remove sections and dividers as needed.
+  5. Export to PDF via browser print (Ctrl/Cmd+P → Save as PDF).
+  6. Save the PDF into worksheets/pdf/ with a matching name.
+  ============================================================
+-->
+<title>{{KEY_NAME}} – Scale Practice Worksheet</title>
+<link rel="stylesheet" href="css/worksheet.css">
+</head>
+<body>
+
+<div class="ws-page">
+
+  <!-- ── HEADER ── -->
+  <header class="ws-header">
+    <div class="ws-header-title">{{KEY_NAME}}</div>
+    <div class="ws-header-meta">Scale Practice Worksheet · {{KEY_SIGNATURE}} · 4 octaves</div>
+  </header>
+
+  <!-- ── DOWNLOAD BAR (hidden in print) ── -->
+  <div class="ws-download-bar">
+    <a class="ws-download-btn" href="pdf/{{PDF_FILENAME}}" download>
+      <svg viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      Download PDF
+    </a>
+  </div>
+
+
+  <!-- ============================================================
+       SECTION: Scales
+       ============================================================ -->
+  <div class="ws-section-label">Scales</div>
+
+  <!-- EXERCISE CARD — copy this block for each exercise -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">01</span>
+      <span class="ws-card-title">{{EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{EXERCISE_DESCRIPTION}}</p>
+
+      <!-- Optional: Tip callout -->
+      <div class="ws-tip">
+        <div class="ws-tip-label">Tip</div>
+        <p>{{TIP_TEXT}}</p>
+      </div>
+    </div>
+  </div>
+  <!-- END EXERCISE CARD -->
+
+
+  <!-- ── SECTION DIVIDER ── -->
+  <div class="ws-divider"></div>
+
+
+  <!-- ============================================================
+       SECTION: Arpeggios & Chords — Tonic
+       ============================================================ -->
+  <div class="ws-section-label">Arpeggios &amp; Chords — Tonic</div>
+
+  <!-- Repeat .ws-card blocks here... -->
+
+
+  <div class="ws-divider"></div>
+
+
+  <!-- ============================================================
+       SECTION: Dominant
+       ============================================================ -->
+  <div class="ws-section-label">Dominant — {{DOMINANT_CHORD}}</div>
+
+  <!-- Repeat .ws-card blocks here... -->
+
+
+  <div class="ws-divider"></div>
+
+
+  <!-- ============================================================
+       SECTION: Finishing
+       ============================================================ -->
+  <div class="ws-section-label">Finishing</div>
+
+  <!-- Repeat .ws-card blocks here... -->
+
+
+  <div class="ws-divider"></div>
+
+
+  <!-- ============================================================
+       GENERAL PRACTICE PRINCIPLES
+       ============================================================ -->
+  <div class="ws-section-label">General Practice Principles</div>
+
+  <div class="ws-principles-card">
+    <div class="ws-principles-list">
+      <div class="ws-principle">Always play in 4 octaves for serious practice</div>
+      <div class="ws-principle">Start slow, increase tempo gradually</div>
+      <div class="ws-principle">Practice left hand separately — it's almost always weaker</div>
+      <div class="ws-principle">Use contrary motion to make any exercise harder</div>
+      <div class="ws-principle">Sit at the edge of the bench for weight transfer</div>
+      <div class="ws-principle">Engage the upper back for tone, not just the arms</div>
+      <div class="ws-principle">Don't tense up — avoid lifting the shoulders</div>
+      <div class="ws-principle">Apply rhythmic variations for evenness training</div>
+    </div>
+  </div>
+
+  <!-- ── HIGHLIGHT CARD (optional, e.g. Chopin note) ── -->
+  <div class="ws-highlight-card">
+    <div class="ws-highlight-label">Chopin's Natural Hand Position</div>
+    <p>The perfect position places the thumb on E, with the longer 2nd, 3rd, and 4th fingers resting naturally on the black keys.</p>
+    <div class="ws-highlight-keys"><span class="ws-chord">E — F♯ — G♯ — A♯ — C</span></div>
+  </div>
+
+  <!-- ── FOOTER ── -->
+  <div class="ws-footer">
+    Scale Practice Worksheet · Piano Exercise Matrix
+  </div>
+
+</div>
+
+</body>
+</html>
