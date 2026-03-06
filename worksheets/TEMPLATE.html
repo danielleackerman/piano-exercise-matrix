@@ -7,13 +7,29 @@
   ============================================================
   WORKSHEET TEMPLATE — Piano Exercise Matrix
   ============================================================
+
   HOW TO USE:
-  1. Copy this file and rename it (e.g. d-major.html).
+
+  1. Copy this file. Rename it to match your key
+     (e.g. d-major.html, eb-minor.html).
+
   2. Replace all {{PLACEHOLDER}} values with your content.
-  3. Duplicate .ws-card blocks for each exercise.
-  4. Add/remove sections and dividers as needed.
-  5. Export to PDF via browser print (Ctrl/Cmd+P → Save as PDF).
-  6. Save the PDF into worksheets/pdf/ with a matching name.
+
+  3. Every section below is pre-populated with example cards.
+     Keep the ones you need, delete the ones you don't.
+
+  4. To add more cards to any section, copy any ws-card block
+     and change the number, title, and content.
+
+  5. To add a section that doesn't exist here, copy any
+     ws-section-label + ws-card + ws-divider group
+     and change the label text.
+
+  6. When finished, open in Chrome:
+     Cmd+P → Save as PDF → A4 → uncheck Headers and footers
+     → Background graphics ON → Save into worksheets/pdf/
+     with the filename matching your {{PDF_FILENAME}}.
+
   ============================================================
 -->
 <title>{{KEY_NAME}} – Scale Practice Worksheet</title>
@@ -39,11 +55,27 @@
 
 
   <!-- ============================================================
-       SECTION: Scales
+       OPTIONAL: PREAMBLE NOTE
+       A card with no number, for introductory context.
+       Delete if not needed.
        ============================================================ -->
-  <div class="ws-section-label">Scales</div>
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-title">{{PREAMBLE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{PREAMBLE_TEXT}}</p>
+    </div>
+  </div>
 
-  <!-- EXERCISE CARD — copy this block for each exercise -->
+
+  <!-- ============================================================
+       SECTION: Scales
+       Delete or rename this section label as needed.
+       ============================================================ -->
+  <div class="ws-section-label">{{SECTION_NAME}}</div>
+
+  <!-- Card with tip -->
   <div class="ws-card">
     <div class="ws-card-header">
       <span class="ws-card-number">01</span>
@@ -51,27 +83,178 @@
     </div>
     <div class="ws-card-body">
       <p>{{EXERCISE_DESCRIPTION}}</p>
-
-      <!-- Optional: Tip callout -->
       <div class="ws-tip">
         <div class="ws-tip-label">Tip</div>
         <p>{{TIP_TEXT}}</p>
       </div>
     </div>
   </div>
-  <!-- END EXERCISE CARD -->
+
+  <!-- Card with technique callout instead of tip -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">02</span>
+      <span class="ws-card-title">{{EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{EXERCISE_DESCRIPTION}}</p>
+      <div class="ws-tip">
+        <div class="ws-tip-label">Technique</div>
+        <p>{{TECHNIQUE_TEXT}}</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Card with advanced variation callout -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">03</span>
+      <span class="ws-card-title">{{EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{EXERCISE_DESCRIPTION}}</p>
+      <div class="ws-tip">
+        <div class="ws-tip-label">Advanced variation</div>
+        <p>{{VARIATION_TEXT}}</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Card with no tip at all -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">04</span>
+      <span class="ws-card-title">{{EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{EXERCISE_DESCRIPTION}}</p>
+    </div>
+  </div>
+
+  <!-- Card with multiple paragraphs (e.g. accent variations) -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">05</span>
+      <span class="ws-card-title">{{EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{INTRO_LINE}}</p>
+      <p>a  {{VARIATION_A}}</p>
+      <p>b  {{VARIATION_B}}</p>
+      <p>c  {{VARIATION_C}}</p>
+      <p>d  {{VARIATION_D}}</p>
+      <div class="ws-tip">
+        <div class="ws-tip-label">Tip</div>
+        <p>{{TIP_TEXT}}</p>
+      </div>
+    </div>
+  </div>
 
 
-  <!-- ── SECTION DIVIDER ── -->
   <div class="ws-divider"></div>
 
 
   <!-- ============================================================
-       SECTION: Arpeggios & Chords — Tonic
+       SECTION: Arpeggios & Chords
+       Delete or rename as needed.
        ============================================================ -->
-  <div class="ws-section-label">Arpeggios &amp; Chords — Tonic</div>
+  <div class="ws-section-label">{{SECTION_NAME}}</div>
 
-  <!-- Repeat .ws-card blocks here... -->
+  <!-- Card with chord names -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">06</span>
+      <span class="ws-card-title">{{EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>Play <span class="ws-chord">{{NOTE}} – {{NOTE}} – {{NOTE}}</span> broken triads across 4 octaves.</p>
+      <div class="ws-tip">
+        <div class="ws-tip-label">Technique</div>
+        <p>{{TECHNIQUE_TEXT}}</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Card with fingering details -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">07</span>
+      <span class="ws-card-title">{{EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{EXERCISE_DESCRIPTION}}</p>
+      <p>Fingering (root position): <span class="ws-fingering">RH {{FINGERING}}</span> <span class="ws-fingering">LH {{FINGERING}}</span></p>
+      <p>Fingering (1st inversion): <span class="ws-fingering">RH {{FINGERING}}</span> <span class="ws-fingering">LH {{FINGERING}}</span></p>
+      <div class="ws-tip">
+        <div class="ws-tip-label">Tip</div>
+        <p>{{TIP_TEXT}}</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Card with warm-up method -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">08</span>
+      <span class="ws-card-title">{{EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{EXERCISE_DESCRIPTION}}</p>
+      <p><strong>Warm-up method:</strong> {{WARMUP_TEXT}}</p>
+      <div class="ws-tip">
+        <div class="ws-tip-label">Technique</div>
+        <p>{{TECHNIQUE_TEXT}}</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Card with practice method -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">09</span>
+      <span class="ws-card-title">{{EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{EXERCISE_DESCRIPTION}}</p>
+      <p><strong>Practice method:</strong> {{PRACTICE_METHOD_TEXT}}</p>
+      <div class="ws-tip">
+        <div class="ws-tip-label">Technique</div>
+        <p>{{TECHNIQUE_TEXT}}</p>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="ws-divider"></div>
+
+
+  <!-- ============================================================
+       SECTION: Six-Chord Arpeggios
+       This section appeared in A Minor but not C Major.
+       Delete if not needed.
+       ============================================================ -->
+  <div class="ws-section-label">{{SECTION_NAME}}</div>
+
+  <!-- Card with chord sequence list -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">10</span>
+      <span class="ws-card-title">{{EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{EXERCISE_DESCRIPTION}}</p>
+      <p>1) <span class="ws-chord">{{CHORD_NAME}}</span> — {{ROMAN_NUMERAL}} ({{INVERSION}})</p>
+      <p>2) <span class="ws-chord">{{CHORD_NAME}}</span> — {{ROMAN_NUMERAL}} ({{INVERSION}})</p>
+      <p>3) <span class="ws-chord">{{CHORD_NAME}}</span> — {{ROMAN_NUMERAL}} ({{INVERSION}})</p>
+      <p>4) <span class="ws-chord">{{CHORD_NAME}}</span> — {{ROMAN_NUMERAL}} ({{INVERSION}})</p>
+      <p>5) <span class="ws-chord">{{CHORD_NAME}}</span> — {{ROMAN_NUMERAL}} ({{INVERSION}})</p>
+      <p>6) <span class="ws-chord">{{CHORD_NAME}}</span> — {{ROMAN_NUMERAL}} ({{INVERSION}})</p>
+      <div class="ws-tip">
+        <div class="ws-tip-label">Tip</div>
+        <p>{{TIP_TEXT}}</p>
+      </div>
+    </div>
+  </div>
 
 
   <div class="ws-divider"></div>
@@ -79,10 +262,24 @@
 
   <!-- ============================================================
        SECTION: Dominant
+       Delete or rename as needed.
        ============================================================ -->
   <div class="ws-section-label">Dominant — {{DOMINANT_CHORD}}</div>
 
-  <!-- Repeat .ws-card blocks here... -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">11</span>
+      <span class="ws-card-title">{{DOMINANT_CHORD}} Exercises (Arpeggios, Broken Chords, Chords, Long Arpeggios)</span>
+    </div>
+    <div class="ws-card-body">
+      <p>Repeat exercises {{RANGE}} using <span class="ws-chord">{{NOTE}} – {{NOTE}} – {{NOTE}} – {{NOTE}}</span> (V7 of {{KEY_NAME}}). Play through all inversions: root, 1st, 2nd, 3rd.</p>
+      <p><strong>Warm-up:</strong> {{WARMUP_TEXT}}</p>
+      <div class="ws-tip">
+        <div class="ws-tip-label">Tip</div>
+        <p>{{TIP_TEXT}}</p>
+      </div>
+    </div>
+  </div>
 
 
   <div class="ws-divider"></div>
@@ -90,10 +287,36 @@
 
   <!-- ============================================================
        SECTION: Finishing
+       Delete or rename as needed.
        ============================================================ -->
   <div class="ws-section-label">Finishing</div>
 
-  <!-- Repeat .ws-card blocks here... -->
+  <!-- Diminished card -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">12</span>
+      <span class="ws-card-title">Diminished — {{DIM_CHORD}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>Built on the 7th degree: <span class="ws-chord">{{NOTE}} – {{NOTE}} – {{NOTE}}</span> (all minor thirds). {{ADDITIONAL_TEXT}}</p>
+    </div>
+  </div>
+
+  <!-- Chromatic scale card -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">13</span>
+      <span class="ws-card-title">Chromatic Scale</span>
+    </div>
+    <div class="ws-card-body">
+      <p>Play the chromatic scale starting from {{ROOT}} across the full keyboard. A good way to close out your session.</p>
+      <!-- Optional variation tip — delete if not needed -->
+      <div class="ws-tip">
+        <div class="ws-tip-label">Variation</div>
+        <p>{{VARIATION_TEXT}}</p>
+      </div>
+    </div>
+  </div>
 
 
   <div class="ws-divider"></div>
@@ -101,28 +324,39 @@
 
   <!-- ============================================================
        GENERAL PRACTICE PRINCIPLES
+       ============================================================
+       THESE ARE DIFFERENT FOR EVERY WORKSHEET.
+       Replace with the principles from your transcript.
+       Add or remove ws-principle lines as needed.
        ============================================================ -->
   <div class="ws-section-label">General Practice Principles</div>
 
   <div class="ws-principles-card">
     <div class="ws-principles-list">
-      <div class="ws-principle">Always play in 4 octaves for serious practice</div>
-      <div class="ws-principle">Start slow, increase tempo gradually</div>
-      <div class="ws-principle">Practice left hand separately — it's almost always weaker</div>
-      <div class="ws-principle">Use contrary motion to make any exercise harder</div>
-      <div class="ws-principle">Sit at the edge of the bench for weight transfer</div>
-      <div class="ws-principle">Engage the upper back for tone, not just the arms</div>
-      <div class="ws-principle">Don't tense up — avoid lifting the shoulders</div>
-      <div class="ws-principle">Apply rhythmic variations for evenness training</div>
+      <div class="ws-principle">{{PRINCIPLE}}</div>
+      <div class="ws-principle">{{PRINCIPLE}}</div>
+      <div class="ws-principle">{{PRINCIPLE}}</div>
+      <div class="ws-principle">{{PRINCIPLE}}</div>
+      <div class="ws-principle">{{PRINCIPLE}}</div>
+      <div class="ws-principle">{{PRINCIPLE}}</div>
+      <div class="ws-principle">{{PRINCIPLE}}</div>
+      <div class="ws-principle">{{PRINCIPLE}}</div>
+      <!-- Add or remove lines as needed -->
     </div>
   </div>
 
-  <!-- ── HIGHLIGHT CARD (optional, e.g. Chopin note) ── -->
+
+  <!-- ============================================================
+       OPTIONAL: HIGHLIGHT CARD
+       Delete this entire block if your transcript doesn't have one.
+       Used for things like Chopin's hand position in C Major.
+       ============================================================ -->
   <div class="ws-highlight-card">
-    <div class="ws-highlight-label">Chopin's Natural Hand Position</div>
-    <p>The perfect position places the thumb on E, with the longer 2nd, 3rd, and 4th fingers resting naturally on the black keys.</p>
-    <div class="ws-highlight-keys"><span class="ws-chord">E — F♯ — G♯ — A♯ — C</span></div>
+    <div class="ws-highlight-label">{{HIGHLIGHT_LABEL}}</div>
+    <p>{{HIGHLIGHT_TEXT}}</p>
+    <div class="ws-highlight-keys"><span class="ws-chord">{{HIGHLIGHT_KEYS}}</span></div>
   </div>
+
 
   <!-- ── FOOTER ── -->
   <div class="ws-footer">
