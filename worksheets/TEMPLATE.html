@@ -45,8 +45,12 @@
     <div class="ws-header-meta">Scale Practice Worksheet · {{KEY_SIGNATURE}} · 4 octaves</div>
   </header>
 
-  <!-- ── DOWNLOAD BAR (hidden in print) ── -->
-  <div class="ws-download-bar">
+  <!-- ── BUTTON BAR (hidden in print) ── -->
+  <div class="ws-button-bar">
+    <a class="ws-nav-btn" href="../index.html">
+      ‹
+      Exercise Matrix
+    </a>
     <a class="ws-download-btn" href="pdf/{{PDF_FILENAME}}" download>
       <svg viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
       Download PDF
@@ -261,6 +265,44 @@
 
 
   <!-- ============================================================
+       SECTION: Diminished — Expanded
+       G Major had sub-exercises (11a–11f) for the diminished chord.
+       Use a single card or break into sub-cards as needed.
+       Delete if not needed.
+       ============================================================ -->
+  <div class="ws-section-label">Diminished — {{DIM_CHORD}}</div>
+
+  <!-- Intro card for diminished section -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">10</span>
+      <span class="ws-card-title">Diminished Chord Exercises</span>
+    </div>
+    <div class="ws-card-body">
+      <p>Built on the 7th degree: <span class="ws-chord">{{NOTE}} – {{NOTE}} – {{NOTE}}</span> (all minor thirds). {{ADDITIONAL_TEXT}}</p>
+    </div>
+  </div>
+
+  <!-- Sub-card example (e.g. 10a, 10b, etc.) -->
+  <div class="ws-card">
+    <div class="ws-card-header">
+      <span class="ws-card-number">10a</span>
+      <span class="ws-card-title">Diminished — {{SUB_EXERCISE_TITLE}}</span>
+    </div>
+    <div class="ws-card-body">
+      <p>{{EXERCISE_DESCRIPTION}}</p>
+      <div class="ws-tip">
+        <div class="ws-tip-label">Technique</div>
+        <p>{{TECHNIQUE_TEXT}}</p>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="ws-divider"></div>
+
+
+  <!-- ============================================================
        SECTION: Dominant
        Delete or rename as needed.
        ============================================================ -->
@@ -291,21 +333,10 @@
        ============================================================ -->
   <div class="ws-section-label">Finishing</div>
 
-  <!-- Diminished card -->
-  <div class="ws-card">
-    <div class="ws-card-header">
-      <span class="ws-card-number">12</span>
-      <span class="ws-card-title">Diminished — {{DIM_CHORD}}</span>
-    </div>
-    <div class="ws-card-body">
-      <p>Built on the 7th degree: <span class="ws-chord">{{NOTE}} – {{NOTE}} – {{NOTE}}</span> (all minor thirds). {{ADDITIONAL_TEXT}}</p>
-    </div>
-  </div>
-
   <!-- Chromatic scale card -->
   <div class="ws-card">
     <div class="ws-card-header">
-      <span class="ws-card-number">13</span>
+      <span class="ws-card-number">12</span>
       <span class="ws-card-title">Chromatic Scale</span>
     </div>
     <div class="ws-card-body">
