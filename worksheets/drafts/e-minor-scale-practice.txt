@@ -1,0 +1,264 @@
+E MINOR SCALE PRACTICE WORKSHEET
+==========================================================
+
+KEY SIGNATURES:
+  Natural minor  — 1 sharp: F♯
+  Harmonic minor — 2 sharps: F♯, D♯
+  Melodic minor  — 3 sharps: F♯, C♯, D♯ (ascending); reverts to natural descending
+
+
+----------------------------------------------------------
+SCALES
+----------------------------------------------------------
+
+1. SCALE — PARALLEL MOTION
+Practice E natural minor, harmonic minor, and melodic minor across 4 octaves,
+both hands moving in the same direction.
+
+  Tip: For melodic minor, the raised 6th and 7th (C♯, D♯) alter the feel
+  on the way up. Be deliberate — don't let the hand revert to natural
+  minor out of habit. Natural minor descending.
+
+----------------------------------------------------------
+
+2. SCALE — CONTRARY MOTION
+Same scale, hands moving in opposite directions simultaneously. Both hands
+begin on E, one ascending and one descending.
+
+  Tip: Harder than parallel motion. Excellent brain training. Add contrary
+  motion to any exercise in this worksheet for an extra challenge.
+
+----------------------------------------------------------
+
+3. SCALE IN SIXTHS
+Play the E harmonic minor scale in sixths — notes a sixth apart in each
+hand simultaneously.
+
+  The left hand begins on G, the 3rd scale degree, rather than the root.
+  Start slower than you think you need. Apply contrary motion once parallel
+  motion is stable. 
+
+----------------------------------------------------------
+
+4. ACCENT AND RHYTHMIC VARIATIONS
+Apply these to any scale exercise for fluidity and evenness. Build from
+the simplest grouping upward — do not jump straight to the hardest.
+
+  a  Accent every [quarter] note — deliberate weight on each individual note.
+  b  Accent every second [eighth] note — a grouped, rolling feel.
+  c  Triplet groupings — organize the scale in threes.
+  d  Accent every fourth note [sixteenth] — groups of four.
+  e  Accent every seventh note — the most advanced grouping.
+
+  Tip: Rhythm gives your scale playing structure. Without it, you lose your
+  place on the keyboard. Grouping in sevens helps you play at faster tempos —
+  it organizes a long run into manageable units.
+
+----------------------------------------------------------
+
+5. SCALE IN THIRDS
+Play the E minor scale in harmonic thirds — two notes a third apart, both
+hands together. Include contrary motion.
+
+  Tip: Isolate the left hand if it feels unclear. Do not combine hands until
+  each hand is stable alone.
+
+
+----------------------------------------------------------
+ARPEGGIOS AND CHORDS — TONIC
+----------------------------------------------------------
+
+6. CHORDS — WARM-UP
+Begin with solid three-note chords (E – G – B) before adding the octave.
+This is the recommended opening when sitting down cold — slow, comfortable,
+no tension.
+
+  Option A (easier): Three-note chord only — E, G, B together.
+  Option B (full): Four-note chord held inside a full octave span.
+
+  Both versions produce the same musical result. Choose based on where your
+  hands are at the start of the session.
+
+  Technique: Chords are about releasing weight into the keyboard, not pressing
+  down with force. Drop the arm weight. The goal is a full, fat sound — not a
+  tense, pushed one. Sit at the edge of the bench so your weight transfers
+  forward into the keys.
+
+----------------------------------------------------------
+
+7. ARPEGGIOS — SHORT
+Play three-note E – G – B broken triads across 4 octaves. Root position,
+1st inversion, 2nd inversion. Both hands.
+
+  Technique: Use circular arm motion. Feel the weight of the arm dropping
+  naturally into each note. Stay close to the keyboard — the all-white-key
+  surface offers no raised black key landmarks to guide you back in.
+
+----------------------------------------------------------
+
+8. BROKEN CHORDS
+Play four-note E – G – B – E in broken form (notes separated, not struck
+together) across the keyboard, moving through all inversions.
+
+  Tip: Practice left hand alone first. On an all-white-key surface, thumb
+  crossing requires deliberate attention. Move your body with your hands —
+  reaching from the shoulder alone creates tension and inaccuracy.
+
+----------------------------------------------------------
+
+9. LONG ARPEGGIOS
+Extended arpeggios E – G – B – E – G – B – E across the full keyboard.
+Root position, 1st inversion, 2nd inversion. Add contrary motion once stable.
+
+  Separate hands before combining — this exposes weaknesses
+  that disappear when both hands play together.
+
+  Stay close to the key surface at all times. On an all-white-key
+  scale, lifting fingers too far causes missed notes — there are no raised
+  black keys to orient your hand. 
+
+  Training thumb-under:
+  Hold any finger (2nd, 3rd, or 4th) down and practice spreading
+  the thumb away and back repeatedly, expanding the interval gradually. This
+  motion — not strength — is what long arpeggios require. Move the center of
+  your body with your hands rather than reaching with the arms alone.
+
+----------------------------------------------------------
+SIX-CHORD SEQUENCE
+----------------------------------------------------------
+
+10. SIX-CHORD SEQUENCE (starting from E major)
+Always start from the major tonic, even when practicing a minor key.
+The standard sequence for E minor:
+
+  1) E major   — I   (root position)
+  2) E minor   — i   (root position)
+  3) C major   — VI  (1st inversion)
+  4) C♯ minor  — ♯vi (1st inversion)
+  5) A major   — IV  (2nd inversion)
+  6) A minor   — iv  (2nd inversion)
+
+  Tip: Slow first, then increase speed. Learn I – i – VI – ♯vi – IV – iv
+  as a transferable formula, not a sequence to memorize per key.
+
+
+----------------------------------------------------------
+JAZZ CHORD EXTENSIONS
+----------------------------------------------------------
+
+11. MINOR SEVENTH AND MAJOR SEVENTH CHORDS
+Extend the tonic chord with jazz voicings. These shapes are deliberately
+unfamiliar — that is the point.
+
+  Em7   — E – G – B – D   (minor seventh)
+  Emaj7 — E – G♯ – B – D♯ (major seventh — larger hand stretch)
+
+  For smaller hands: play the three-note inner voicing without the bass
+  octave. This is standard jazz practice and produces the correct sound.
+
+  Practicing unfamiliar shapes trains the hand to locate positions it does
+  not yet know. Apply the same weight and tone approach as the classical
+  chords above. Apply the same broken-chord and arpeggio variations as
+  exercises 7–9.
+
+
+----------------------------------------------------------
+DOMINANT — B7
+----------------------------------------------------------
+
+12. B7 EXERCISES (Arpeggios, Broken Chords, Chords, Long Arpeggios)
+Repeat exercises 7–9 using B – D♯ – F♯ – A (V7 of E minor). Play through
+all inversions: root, 1st, 2nd, 3rd.
+
+  Warm-up: Octave first, then add the inner three voices one at a time.
+
+  Tip: The four-note stretch is larger than the tonic triad. Do not play
+  dominant seventh exercises at the very start of warm-up. The hand shape
+  is irregular — some intervals are close, others wide — and requires care.
+
+
+----------------------------------------------------------
+DOUBLE THIRDS
+----------------------------------------------------------
+
+13. DOUBLE THIRDS — INTRODUCTION
+Double thirds are two simultaneous thirds played in each hand, moving up
+and down the scale. The most demanding exercise in this worksheet.
+
+  The left and right hand fingering move in near-synchronicity in E minor,
+  which makes coordination easier than in most other keys.
+
+  Identify where the 5th finger lands at each position first — that is the
+  anchor point. Everything else organizes around it. Start in two octaves
+  before attempting four. Fingering is personal — adjust what does not suit
+  your hand.
+
+----------------------------------------------------------
+
+13a. DOUBLE THIRDS — SINGLE VOICE ISOLATION
+Before playing both voices simultaneously, remove one voice and practice
+with the other alone — using the exact fingering you would use for the
+full double third.
+
+  Step 1 — Play the lower voice only, with its double-third fingering.
+  Step 2 — Play the upper voice only, with its double-third fingering.
+  Step 3 — Hold the lower voice and play the upper voice moving.
+  Step 4 — Hold the upper voice and play the lower voice moving.
+
+  Do not simplify the fingering in these preparatory steps.
+
+----------------------------------------------------------
+
+13b. DOUBLE THIRDS — HANDS SEPARATELY
+Practice left hand alone, then right hand alone, before combining.
+
+  Aim for legato connection between notes — this is genuinely difficult in
+  double thirds, but it is the goal even if full legato is not yet achievable.
+  Use all fingers actively. The 5th finger must be included — do not avoid it.
+
+----------------------------------------------------------
+
+13c. DOUBLE THIRDS — HANDS TOGETHER
+Combine both hands once each is stable separately.
+
+  Tip: Even when hands are individually secure, the combined version will
+  feel different. This is normal. Return to separate-hand practice whenever
+  coordination breaks down.
+
+
+----------------------------------------------------------
+FINISHING
+----------------------------------------------------------
+
+14. CHROMATIC SCALE
+Play the chromatic scale starting from E across the full keyboard.
+A good way to close out your session and clear the hand after demanding work.
+
+
+----------------------------------------------------------
+GENERAL PRACTICE PRINCIPLES
+----------------------------------------------------------
+
+- E minor has one more black key than C or A minor. This gives your hand
+  better landmarks — F♯ especially helps anchor your position. The scale sits
+  comfortably under the hand.
+
+— All-white-key scales have no raised landmarks. Fingering must be learned
+  deliberately — you cannot rely on the black keys to reorient your hand.
+
+— Begin every session slowly. Start with simple chords before playing anything
+  fast. The first thing you play sets the tension level for everything that follows.
+
+— Sit at the edge of the bench. Weight should transfer forward into the
+  keyboard — not backward into the chair.
+
+— Practice separate hands for arpeggios and inversions. Combining hands
+  too early hides individual weaknesses.
+
+— Train the thumb with dedicated isolation exercises. It is the main
+  difficulty in all-white-key long arpeggios.
+
+— Playing unfamiliar chord shapes and positions is productive. Mistakes in
+  new territory mean the hand is learning something it does not yet know.
+
+- Always aim for 4 octaves across the full keyboard.
