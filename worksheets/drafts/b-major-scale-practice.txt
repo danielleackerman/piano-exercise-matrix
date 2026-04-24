@@ -1,0 +1,195 @@
+B Major
+Scale Practice Worksheet · 5 sharps (C♯, D♯, F♯, G♯, A♯) · 4 octaves
+
+
+================================================================
+SCALES
+================================================================
+
+01  Scale — Parallel Motion
+    Play B major up and down in parallel motion.
+
+    Tip
+    B major is particularly comfortable — this key is paradise
+    compared to C♯ minor. To improve quality, practice with
+    rhythmic variations: accent every second note.
+
+02  Scale in Thirds
+    Play the B major scale in thirds — two notes a third apart,
+    played together or in succession.
+
+    Tip
+    RH starts on finger 3. LH starts on finger 4.
+
+
+================================================================
+ARPEGGIOS & CHORDS — TONIC
+================================================================
+
+03  Short Arpeggios
+    Play short arpeggios of the tonic triad — three notes only,
+    without adding the octave. Don't use the 5th finger.
+    B – D♯ – F♯, then D♯ – F♯ – B, then F♯ – B – D♯.
+    This small version appears in pieces more often than the full
+    four-note chord. Practice playing it fast.
+
+04  Eleven Long Chords
+    Play extended arpeggios through a cycle of eleven chords in
+    sequence. Play each chord as a long arpeggio across the
+    keyboard, then move immediately to the next without stopping.
+
+    The eleven-chord cycle for B major:
+
+    Tonic:
+    1) B major — root position
+    2) B minor — root position
+    3) G major — 1st inversion
+    4) G♯ minor — 1st inversion
+    5) E major — 2nd inversion
+    6) E minor — 2nd inversion
+
+    Dominant:
+    7) B7 — root position
+    8) G7 — 1st inversion
+    9) E7 — 2nd inversion
+    10) C♯7 — 3rd inversion
+
+    Diminished:
+    11) Dim — 4-note chord (vii°) B–D–F–A♭–B
+
+    Tip
+    Playing all eleven in a row builds stamina — very rarely do
+    you get such sustained intensity. If accuracy drops, slow
+    down. The broken arpeggio form can also be applied to the
+    same sequence.
+
+
+================================================================
+DOMINANT — F♯7
+================================================================
+
+05  Dominant Arpeggios
+    Play arpeggios of the F♯7 chord — a five-finger chord that
+    includes the octave. Play through all inversions.
+ 
+    1) Root position: F♯ – A♯ – C♯ – E – F♯
+    2) 1st inversion: A♯ – C♯ – E – F♯ – A♯
+    3) 2nd inversion: C♯ – E – F♯ – A♯ – C♯
+    4) 3rd inversion: E – F♯ – A♯ – C♯ – E
+ 
+    Tip
+    The dominant chord causes the most wrong notes — the
+    intervals are all different distances (major third, minor
+    third, minor third, major second). Practice remembering the
+    distances. Find pairs of notes that feel uncomfortable and
+    isolate them.
+    Find pairs of notes that feel uncomfortable and isolate them.
+
+
+================================================================
+DOUBLE THIRDS
+================================================================
+
+06  Double Thirds
+    Play B major in double thirds. The most important thing is
+    knowing where your fingers go — specifically where the 5th
+    finger lands.
+
+    5th finger anchor points:
+    RH — 5th finger on F♯ and C♯
+    LH — 5th finger on A♯ (used only once)
+
+    2nd finger anchor point:
+    RH — 2nd finger on G♯
+
+    Complete fingering, ascending from B (bottom note / top note):
+
+    RH:
+    B–D♯: 1/3    C♯–E: 2/4    D♯–F♯: 3/5    E–G♯: 1/3
+    F♯–A♯: 1/4   G♯–B: 2/4    A♯–C♯: 3/5
+
+    LH:
+    B–D♯: 4/2    C♯–E: 3/1    D♯–F♯: 4/2    E–G♯: 3/1
+    F♯–A♯: 4/2   G♯–B: 3/1    A♯–C♯: 5/2
+
+    Practice separate hands first. Connect each pair of thirds
+    as legato as possible. Then combine both hands very slowly.
+
+    Tip
+    In double thirds, everything is about how legato you can
+    play — how well you connect each third. This is why fingering
+    is so important.
+
+
+================================================================
+VARIATIONS
+================================================================
+
+    Contrary Motion
+    Any scale or arpeggio exercise can be played in contrary
+    motion — one hand ascending while the other descends
+    simultaneously. This is harder than parallel motion and
+    excellent brain training.
+
+    Accent & Rhythmic Variations
+    Apply to any scale or arpeggio exercise for fluidity and
+    evenness:
+    a  Accent every note — extra weight on each individual note.
+    b  Accent every second note — grouped, rolling feel.
+    c  Triplet groupings — organize the scale in groups of three.
+    d  Groups of four — organize the scale in groups of four.
+    e  Prolong one note per group — hold the 2nd or 3rd note
+       slightly longer to build control.
+
+    Staccato
+    Any scale exercise can be played staccato — lift from each
+    key rather than connecting the notes. Treat it as a separate
+    pass, not a replacement for legato practice.
+
+
+================================================================
+GENERAL PRACTICE PRINCIPLES
+================================================================
+
+–  Choose a slow tempo to start — tensing your hands defeats the
+   purpose of the exercise
+–  When you lose accuracy, slow down immediately — don't push
+   through mistakes hoping they fix themselves
+–  Stamina comes from sustained intensity — playing eleven chords
+   in a row with no breaks is the point, not individual perfection
+–  Every hand is different — what is uncomfortable for one person
+   may be easy for another, so don't stress
+–  In double thirds, legato quality depends entirely on fingering
+–  When practicing one hand alone, raise the other hand above
+   your head — the non-playing hand sleeps and does nothing
+
+
+================================================================
+NOTES ON THIS DRAFT
+================================================================
+
+Structural decisions:
+
+–  Tonic section of 11 chords follows the I – i – VI – ♯vi –
+   IV – iv pattern applied to B: B/Bm, G/G♯m, E/Em.
+–  Dominant section of 11 chords uses B7, G7, E7, C♯7 as
+   provided. Separate from the F♯7 dominant arpeggios exercise.
+–  Diminished uses B–D–F–A♭–B as provided.
+–  F♯7 dominant arpeggios (timestamp 09:14) is a separate
+   exercise from the 11 chords.
+–  Double thirds fingering table constructed from the screenshot
+   anchor points and transcript details. Please verify against
+   the original video/chart.
+–  Scale in Thirds has minimal instruction in the transcript.
+   Fingering tip (LH 4, RH 3) added per correction.
+–  No chromatic scale covered in this session.
+–  Broken arpeggio form for 11 chords mentioned but not played —
+   noted in the tip, not a separate card.
+
+Repetition check:
+–  "Slow down when accuracy drops" in General Principles. Card 04
+   references it briefly ("if accuracy drops, slow down") —
+   borderline overlap. Happy to remove from one location.
+–  "Hand independence" detail (hand above head) lives only in
+   card 03. The general principle about different hands is
+   separate.

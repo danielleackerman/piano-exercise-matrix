@@ -1,0 +1,133 @@
+F♯ MAJOR / G♭ MAJOR — SCALE PRACTICE WORKSHEET
+Revised draft
+
+Key signature: 6 sharps (F♯, C♯, G♯, D♯, A♯, E♯) or 6 flats (B♭, E♭, A♭, D♭, G♭, C♭)
+Enharmonic equivalent — F♯ major and G♭ major are the same key
+4 octaves
+
+---
+
+PREAMBLE: Note on F♯ major / G♭ major
+
+This key sits at the bottom of the circle of fifths, where six sharps and six flats meet. F♯ major and G♭ major are enharmonic equivalents. Despite having six sharps (or six flats), this key is comfortable because the hand sits almost entirely on black keys.
+
+---
+
+SCALES
+
+01 — Scale — Parallel Motion
+
+Play the F♯ major scale up and down with both hands moving in the same direction. The scale: F♯ – G♯ – A♯ – B – C♯ – D♯ – E♯ – F♯. Start in two octaves to get familiar with the key, then expand to four. Add contrary motion.
+
+Tip: Even though there are six sharps, this key feels natural — the black keys give the hand a comfortable, well-shaped position.
+
+02 — Scale in Thirds
+
+Play the F♯ major scale in intervals of a major third — two notes a third apart, played together or in succession. Add contrary motion.
+
+Suggested fingering:
+Ascending
+LH: 4 3 2 1 3 2 1 4
+RH: 3 1 2 3 1 2 3 4
+Descending
+LH: 4 1 2 3 1 2 3 4
+RH: 4 3 2 1 3 2 1 3
+
+Tip: Start at a slow tempo and increase speed once warmed up.
+
+03 — Double Thirds — Finger Independence
+
+Play the scale in thirds using only two fingers per hand. Do not strike the two notes together as a blocked interval, but like a broken interval. Play them individually with a small rocking motion between the notes.
+
+Suggested drill:
+Practice in separate passes, using one fixed finger pair at a time.
+Pass 1:
+RH: 2 and 4
+LH: 4 and 2
+Pass 2:
+RH: 3 and 5
+LH: 5 and 3
+
+This develops finger independence and rotational control.
+
+Tip: This exercise is meant to make practicing harder — the payoff comes when you return to the simple scale.
+
+04 — Scale in Sixths
+
+Play the F♯ major scale in sixths. LH moves to the 3rd degree, RH stays on 1st degree of scale. Left hand starts with the 2nd finger on A♯. Add a staggered variation.
+
+Tip: Choose a slow tempo to begin and play legato — connected and smooth, not choppy.
+
+---
+
+ARPEGGIOS & CHORDS — TONIC
+
+05 — Long Arpeggios
+
+Play extended arpeggios on F♯ – A♯ – C♯ – F♯ across the full keyboard. Root position, 1st inversion, 2nd inversion. Add contrary motion and dynamics.
+
+Suggested fingering:
+Root position
+RH: 1 2 3 1 2 3 5
+LH: 5 3 2 1 3 2 1
+1st inversion
+RH: 1 2 4 1 2 4 5
+LH: 5 3 2 1 3 2 1
+2nd inversion
+RH: 1 2 4 1 2 4 5
+LH: 5 3 2 1 3 2 1
+
+Practice method: Get familiar with structure by playing solid chords — root position, 1st inversion, 2nd inversion. Ascending and descending. Then extend into long arpeggios.
+
+Watch for an unwanted accent at the thumb crossing, especially in the right hand. If the note after the thumb is too loud or the note before it is too quiet, the crossing isn't smooth. Practice separate hands to isolate and solve the problem — break it down into small movements rather than trying to cover problems with both hands together.
+
+Add dynamics: start quieter, increase the volume, go quieter again. Long arpeggios are not only about strengthening fingers — they are about learning to control dynamics.
+
+Tip: The thumb-to-forefinger jump feels different depending on keyboard position — practice each inversion separately to find where it breaks down. Black keys are thinner — you need more accuracy.
+
+---
+
+DOMINANT — C♯7
+
+06 — C♯7 Exercises
+
+Play the dominant 7th chord C♯ – E♯ – G♯ – B as small chords (four notes without adding the octave), broken intervals, or if the stretch is too big, divide it and play as a broken arpeggio instead.
+
+Variation:
+Practice C♯7 in a broken-interval pattern.
+Scale degrees: 1 5 | 3 7 | 5 1 | 7 3
+Notes:         C♯ G♯ | E♯ B | G♯ C♯ | B E♯
+Suggested fingering (pairs):
+RH: 1 3 | 2 4 | 3 5 | 1 3
+LH: 5 3 | 4 2 | 3 1 | 5 3
+
+**Practice the accent-on-4th-finger technique:** accent the 4th finger in the left hand, then relax. Switch and accent the 4th finger in the right hand, then relax. The purpose is not about stretching — it is about learning how to relax after the accent.
+
+Tip: Don't forget to relax once you put the accent — that release is the whole point of the exercise.
+
+---
+
+VARIATIONS
+
+Contrary Motion
+Any scale or arpeggio exercise can be played in contrary motion — one hand ascending while the other descends simultaneously. This is harder than parallel motion and excellent brain training.
+
+Accent & Rhythmic Variations
+Apply to any scale or arpeggio exercise for fluidity and evenness:
+a  Accent every note — extra weight on each individual note.
+b  Accent every second note — grouped, rolling feel.
+c  Triplet groupings — organize the scale in groups of three.
+d  Groups of four — organize the scale in groups of four.
+e  Prolong one note per group — hold the 2nd or 3rd note slightly longer to build control.
+f  Groups of seven — the scale normally falls in groups of eight, so grouping in sevens shifts the accent and exposes unevenness.
+
+Staccato
+Any scale exercise can be played staccato — lift from each key rather than connecting the notes. Treat it as a separate pass, not a replacement for legato practice.
+
+---
+
+GENERAL PRACTICE PRINCIPLES
+
+– Playing fast reveals different problems than playing slow — you might have two different sets of weaknesses at different tempos, so try both to find all of them
+– Practicing different variations makes the simple scale feel effortless — the harder exercises are what make the basic scale easy
+– Always play scales legato — connected and smooth, not choppy, unless staccato is the deliberate goal

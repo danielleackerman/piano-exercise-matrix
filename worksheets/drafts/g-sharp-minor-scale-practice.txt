@@ -1,0 +1,113 @@
+G♯ MINOR — SCALE PRACTICE WORKSHEET
+Draft for approval (corrected)
+
+Key signature: 5 sharps (F♯, C♯, G♯, D♯, A♯)
+Relative major: B major
+4 octaves
+
+---
+
+PREAMBLE: A note on G♯ minor
+
+G♯ minor is one of the most uncomfortable keys. The harmonic form introduces F double sharp (enharmonically G natural), and the melodic form adds both E♯ and F double sharp on the way up. The double sharps make this key feel disorienting despite the familiar sound — your fingers play what feels like G natural, but the written note says F double sharp.
+
+---
+
+SCALES
+
+01 — Harmonic Minor — Parallel Motion
+
+Play G♯ harmonic minor up and down with both hands moving in the same direction. The harmonic minor raises the 7th degree: F♯ becomes F double sharp (enharmonically G natural).
+
+Tip: Start slow. G♯ minor is a very uncomfortable key — the double sharp is physically and mentally disorienting at first.
+
+02 — Melodic Minor — Parallel Motion
+
+Play G♯ melodic minor up and down in parallel motion.
+
+Ascending: Raise both the 6th and 7th degrees — E becomes E♯, F♯ becomes F double sharp.
+
+Descending: Remove the raised notes and descend as natural G♯ minor (G♯ – F♯ – E – D♯ – C♯ – B – A♯ – G♯). The descent feels like B major.
+
+Tip: On the way down, you will naturally want to fall on the 4th finger, but you need the 5th. Skip the 4th finger and place the 5th — you will need the 4th finger again when playing contrary motion.
+
+03 — Contrary Motion
+
+Play the scale with hands moving in opposite directions — go to the top, come back, then continue into contrary motion.
+
+Tip: The 5th-finger adjustment from Exercise 02 becomes critical here — without it, your hand runs out of fingers for the return.
+
+04 — Accent & Rhythmic Variations
+
+Apply the rhythmic variations to the G♯ minor scale, working through each pattern in sequence as a ladder. Add groups of seven as an additional variation — the scale normally falls in groups of eight, so grouping in sevens shifts the accent and exposes unevenness.
+
+Tip: Work through the full ladder in order to build evenness and control.
+
+05 — Scale in Tenths — Harmonic
+
+Play the harmonic minor scale in tenths (octave + third between hands).
+
+Practice the left hand separately first — the left hand is not as technically capable as the right. Practice it alone to find the real flaws, then practice the left hand fast to see where unevenness appears. The descent is normally more problematic than the ascent. Don't cover left-hand imperfections with the right hand.
+
+Tip: Isolate the left hand at speed — the descent typically reveals more problems than the ascent.
+
+---
+
+ARPEGGIOS & CHORDS — TONIC
+
+06 — Short Arpeggios
+
+Play short arpeggios on G♯ – B – D♯ in a smaller amplitude across 2 octaves. Always use the 4th finger. Start with three-note arpeggios, then expand to four notes.
+
+Tip: Four-note arpeggios are the more common practice form — three notes is a useful starting point, but move to four once comfortable.
+
+07 — Long Arpeggios
+
+Play extended arpeggios on G♯ – B – D♯ across the full keyboard. Add contrary motion.
+
+Left hand fingering: 2nd finger, thumb, 4th finger — same structure as C♯ minor.
+
+Tip: Practice left hand alone. The 4th finger needs extra attention.
+
+08 — Long Arpeggios in Double Octaves
+
+Play the tonic chord as long arpeggios in double octaves with a split between the octave notes. Root position, 1st inversion, 2nd inversion. Move very quickly once you play the octave, but also grab the keys firmly.
+
+Tip: The split is particularly complicated because the notes are not repeated between positions — each inversion requires a completely new hand shape.
+
+---
+
+FINISHING
+
+09 — Chromatic Scale
+
+Play the chromatic scale starting from G♯ across the full keyboard. Then play the chromatic scale in thirds for increased difficulty. Put a pulse on your chromatic scale — without a rhythmic anchor you will lose yourself.
+
+Tip: Start slowly and increase the tempo — there are no benefits to starting fast and then trying to unlearn the mistakes.
+
+---
+
+VARIATIONS
+
+Contrary Motion
+Any scale or arpeggio exercise can be played in contrary motion — one hand ascending while the other descends simultaneously. This is harder than parallel motion and excellent brain training.
+
+Accent & Rhythmic Variations
+Apply to any scale or arpeggio exercise for fluidity and evenness:
+a  Accent every note — extra weight on each individual note.
+b  Accent every second note — grouped, rolling feel.
+c  Triplet groupings — organize the scale in groups of three.
+d  Groups of four — organize the scale in groups of four.
+e  Prolong one note per group — hold the 2nd or 3rd note slightly longer to build control.
+
+Staccato
+Any scale exercise can be played staccato — lift from each key rather than connecting the notes. Treat it as a separate pass, not a replacement for legato practice.
+
+---
+
+GENERAL PRACTICE PRINCIPLES
+
+– Don't cover left-hand imperfections with the right hand — practice left hand alone to expose the truth
+– There are no shortcuts — learning mistakes at speed creates habits you have to unlearn, so start slowly and increase the tempo
+– Use the rhythmic patterns as a ladder — work through each variation in sequence to build evenness and control
+– Be very patient — G♯ minor is a very uncomfortable key, and patience is what makes the difference

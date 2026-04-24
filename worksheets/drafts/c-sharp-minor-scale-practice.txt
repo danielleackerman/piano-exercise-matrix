@@ -1,0 +1,159 @@
+C♯ Minor
+Scale Practice Worksheet · 4 sharps (F♯, C♯, G♯, D♯) · Relative minor of E major · 4 octaves
+
+
+================================================================
+SCALES
+================================================================
+
+01  Harmonic Minor — Parallel Motion
+    Play C♯ harmonic minor up and down in parallel motion across
+    4 octaves.
+
+02  Harmonic Minor — Contrary Motion
+    Play C♯ harmonic minor in contrary motion — one hand ascending,
+    one descending simultaneously.
+
+03  Melodic Minor — Parallel Motion
+    Play C♯ melodic minor in parallel motion across 4 octaves.
+    Descending, come back natural.
+
+    Tip
+    The important thing in this scale is remembering where you put
+    your 4th finger in the right hand — place it on D♯. When
+    descending, there is a temptation to use the 3rd finger instead,
+    but then you will run out of fingers.
+
+04  Scale in Tenths
+    Play C♯ harmonic minor in tenths (octave + third between hands).
+
+05  Scale in Tenths — Melodic (Triplets)
+    Play C♯ melodic minor in tenths using triplet rhythm.
+
+06  Scale in Sixths (Harmonic & Melodic)
+    Play the scale in sixths — this time moving the left hand while
+    the right hand holds position. Start with the 5th finger. Play
+    both the harmonic and melodic forms.
+
+    Tip
+    The interval of the 6th is the most complicated out of all of
+    them. Start slowly in two octaves. Once comfortable, move to
+    four octaves.
+
+
+================================================================
+ARPEGGIOS & CHORDS — TONIC
+================================================================
+
+07  Long Arpeggios
+    Play extended arpeggios of C♯ minor across the keyboard through
+    all inversions. Repeat each inversion group as much as needed.
+
+    Tip
+    Train the 4th finger. Play legato. When practicing the left
+    hand separately, add an extra note at a time to build it up
+    gradually.
+
+
+================================================================
+DOMINANT — G♯7
+================================================================
+
+08  Dominant Chords
+    Play G♯7 solid chords to get familiar with the shape. To locate
+    the dominant chord of any key, find the 5th degree of the scale —
+    in C♯ minor, that's G♯.
+
+09  Dominant Arpeggios
+    Play arpeggios of the G♯7 chord. In slow tempo, this is a good
+    warm-up — it activates all your fingers.
+
+    Tip
+    Add rhythmic variations — prolong the 2nd note of each group,
+    then the 3rd note.
+
+10  Dominant Broken Arpeggios
+    Play G♯7 as a broken arpeggio.
+
+11  Dominant Long Arpeggios
+    Play G♯7 as long arpeggios through all inversions. Choose a
+    comfortable tempo. First inversion is more comfortable because
+    you start from a white key.
+
+    Tip
+    Your thumb will most likely be lazy — pay attention to it.
+    When you spot a problem, always slow down. Don't try to jump
+    through it. Slow down and detect what's happening.
+
+
+================================================================
+DIMINISHED — B♯ dim
+================================================================
+
+12  Diminished Chords
+    Built on the 7th degree: B♯ – D♯ – F♯ (all minor thirds; B♯
+    is enharmonically C). Play the octave with very active middle
+    voices — play, then grab.
+
+13  Diminished Arpeggios
+    Play arpeggios of the diminished chord. Hands move in a circular
+    motion — use rotation to reach the notes rather than stretching
+    for the keys.
+
+14  Diminished Broken Arpeggios
+    Play the diminished chord as a broken arpeggio.
+
+15  Diminished Long Arpeggios
+    Play long arpeggios of the diminished chord through all
+    inversions. Take this slowly.
+
+    Technique
+    Instead of rotating, move very quickly between notes with the
+    smallest possible disconnection. It should look and sound legato,
+    but the movement between positions is so fast and small you
+    cannot hear the gap. 2nd inversion starts from F♯.
+
+    Tip
+    Practice left hand only — it immediately exposes unintended
+    accents and connection problems between the 4th finger and
+    thumb. Move quicker between positions to clean up the line.
+
+
+================================================================
+GENERAL PRACTICE PRINCIPLES
+================================================================
+
+–  Start slow, increase tempo gradually
+–  Practice left hand separately — it reveals weaknesses the
+   right hand covers
+–  Move with your hands instead of reaching for the keys
+–  Play legato — aim for a connected, even sound
+
+
+================================================================
+NOTES ON THIS DRAFT
+================================================================
+
+What the transcript covers that differs from C Major and A Minor:
+
+–  No short arpeggios, broken chords, or solid chords for tonic.
+   The transcript goes directly from scales to long arpeggios.
+–  No chromatic scale. The session ends with the diminished chord.
+–  No accent/rhythmic variations as a standalone scale exercise.
+   Rhythmic variations appear only in the dominant arpeggios context.
+–  No scale in thirds. The transcript covers tenths and sixths only.
+–  Contrary motion is mentioned only for the harmonic scale, not
+   for the melodic.
+
+Repetition check:
+–  "Move with your hands" appears in General Principles. It is
+   referenced in exercise-specific form in cards 07 and 13 without
+   restating the general point.
+–  "Practice LH separately" appears in General Principles. Cards
+   07 and 15 give exercise-specific LH methods without restating
+   the general point.
+–  "Slow down when you see a problem" lives only in card 11
+   (Dominant Long Arpeggios), where it arose in the transcript.
+–  "Play legato" appears in General Principles. Card 07 references
+   it in context of the 4th finger training. This is borderline —
+   happy to remove from one location if you prefer.

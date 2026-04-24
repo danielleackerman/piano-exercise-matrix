@@ -1,0 +1,135 @@
+B MINOR
+Scale Practice Worksheet · Two sharps (F♯, C♯) · Relative minor of D major · 4 octaves
+
+Note on B minor: Practice all three forms — natural, harmonic, and melodic.
+
+
+----------------------------------------------------------
+SCALES
+----------------------------------------------------------
+
+01  Harmonic Minor
+
+Play B harmonic minor. The harmonic minor raises the 7th degree: A becomes A♯.
+
+
+02  Melodic Minor
+
+Play B melodic minor.
+
+Ascending: raise the 6th and 7th degrees — G becomes G♯, A becomes A♯.
+Descending: remove all alterations and descend as natural B minor.
+
+
+03  Scale in Thirds
+
+Play B minor in thirds — two notes a third apart, in succession. Move as evenly as possible. Avoid uneven notes especially in the left hand.
+
+
+04  Scale in Tenths
+
+Play the scale in tenths (octave + third between hands) using triplet rhythm. Practice both ascending and descending.
+
+Tip: Play at a challenging tempo to expose what isn't working. When the pattern breaks down at speed, start again from the beginning — not from the middle.
+
+
+05  Scale in Sixths
+
+Play the scale in sixths using triplet rhythm. Apply accent patterns from the Variations section.
+
+
+----------------------------------------------------------
+ARPEGGIOS
+----------------------------------------------------------
+
+06  Short Arpeggios
+
+Play B minor broken triads across 4 octaves. Work through root position, 1st inversion, and 2nd inversion.
+
+Technique: Feel the natural weight of the arm dropping into the keys. Move in circular motions — stay grounded and free, not rigid.
+
+
+07  Long Arpeggios
+
+Play B minor arpeggios across the full keyboard. In B minor, the left hand uses the 4th finger and the right hand uses the 3rd finger at key crossing points. Work through root position, 1st inversion, and 2nd inversion.
+
+The thumb is the main source of difficulty — it tends to arrive late or land inaccurately. To isolate the problem:
+
+Step 1 — Find the exact point where the thumb crossing is uneven.
+Step 2 — Extract that small fragment.
+Step 3 — Practice it slowly until the thumb lands correctly.
+Step 4 — Return to the full arpeggio.
+
+Pay particular attention to the ending of each inversion when returning from a black key — fingering differs between left and right hand.
+
+Technique: Separate hands first. Don't play both hands to cover what the left hand doesn't know. Practice in small segments to identify the exact problem.
+
+
+----------------------------------------------------------
+SIX-CHORD ARPEGGIOS
+----------------------------------------------------------
+
+08  Long Six-Chord Arpeggios
+
+Extended arpeggios through a cycle of six chords in sequence. The roman numeral pattern is I – i – VI – ♯vi – IV – iv.
+
+For B minor:
+
+1) B major — I (tonic major, root position)
+2) B minor — i (tonic minor, root position)
+3) G major — VI (1st inversion)
+4) G♯ minor — ♯vi (1st inversion)
+5) E major — IV (2nd inversion)
+6) E minor — iv (2nd inversion)
+
+Play each chord as a long arpeggio across the keyboard before moving to the next.
+
+
+----------------------------------------------------------
+FINISHING
+----------------------------------------------------------
+
+09  Chromatic Scale
+
+Play the chromatic scale starting from B across the full keyboard.
+
+
+----------------------------------------------------------
+VARIATIONS
+----------------------------------------------------------
+
+Contrary Motion
+
+Any scale or arpeggio exercise can be played in contrary motion — one hand ascending while the other descends simultaneously. This is harder than parallel motion and excellent brain training.
+
+Advanced variation: In contrary motion with the melodic minor, one hand plays the raised ascending form while the other simultaneously plays the natural descending form. Then reverse which hand plays which.
+
+
+Accent & Rhythmic Variations
+
+Apply to any scale or arpeggio exercise for fluidity and evenness:
+
+a  Accent every note — extra weight on each individual note.
+b  Accent every second note — grouped, rolling feel.
+c  Accent every fourth note — builds longer phrase shapes.
+d  Triplet groupings — organize in groups of three, accenting the first note of each group.
+
+Tip: Apply the accent in both hands equally. The left hand easily becomes passive while the right hand carries the accent alone.
+
+
+Staccato
+
+Any scale exercise can be played staccato — lift from each key rather than connecting the notes. Treat it as a separate pass, not a replacement for legato practice.
+
+
+==========================================================
+GENERAL PRACTICE PRINCIPLES
+==========================================================
+
+- Play at a challenging tempo to find what isn't working, then slow down to fix it
+- Don't stay in a comfort zone when practicing alone — push the tempo
+- When a passage breaks down at speed, start again from the beginning — not from the middle
+- Don't play both hands to cover what the left hand doesn't know
+- Practice in small segments to identify the exact problem
+- Apply accents in both hands — the left hand easily becomes passive
+- Sit forward with feet supported on the floor — legs should not hang; weight must be grounded and able to lean into the keyboard

@@ -201,6 +201,15 @@ body {
   letter-spacing: 0.3px;
 }
 
+/* Roman numerals */
+.ws-roman {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  font-size: 15.5px;
+  color: #1a1a1a;
+  letter-spacing: 0.3px;
+}
+
 /* Fingering badges */
 .ws-fingering {
   font-size: 13px;

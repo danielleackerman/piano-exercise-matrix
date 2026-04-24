@@ -1,0 +1,174 @@
+E MAJOR — SCALE PRACTICE WORKSHEET DRAFT
+============================================================
+
+HEADER
+  Title: E Major
+  Meta: Scale Practice Worksheet · 4 sharps (F♯, C♯, G♯, D♯) · 4 octaves
+
+
+(No preamble — the transcript doesn't have a warm-up concept
+or introductory exercise. He calls E major "a super comfortable
+key" and goes straight into playing.)
+
+
+============================================================
+SCALES
+============================================================
+
+01 — Scale
+
+Play E major across 4 octaves. Start with one octave if needed,
+then expand. Choose a comfortable tempo.
+
+
+02 — Scale in Tenths
+
+Play E major in tenths (octave + third between hands). Add
+dynamics: crescendo ascending, decrescendo descending.
+
+Practice left hand separately — avoid any spikes or unintended
+accents on individual notes.
+
+
+03 — Scale in Sixths
+
+Play E major in sixths. Start with G♯ in the left hand. Apply
+accent patterns from the Variations section.
+
+
+============================================================
+CHROMATIC SCALE IN DOUBLE THIRDS
+============================================================
+
+04 — Chromatic Scale in Double Thirds
+
+Chromatic scales are more or less the same from all keys. Start
+from C using major thirds. The most important thing is knowing
+where your fingers go — specifically where the 5th finger lands.
+
+5th finger anchor points:
+  RH — 5th finger on F and A♯ (top notes of those pairs)
+  LH — 5th finger on F♯ and B (bottom notes of those pairs)
+
+Complete fingering, ascending from C (bottom note / top note):
+
+  RH:
+  C-E: 1/4    C♯-F: 2/5    D-F♯: 1/3    D♯-G: 2/4
+  E-G♯: 1/3   F-A: 1/4     F♯-A♯: 2/5   G-B: 1/3
+  G♯-C: 2/4
+
+  LH:
+  C-E: 4/1    C♯-F: 3/1    D-F♯: 4/2    D♯-G: 3/1
+  E-G♯: 4/2   F-A: 3/1     F♯-A♯: 5/2   G-B: 4/1
+  G♯-C: 3/1   A-C♯: 4/2    A♯-D: 3/1    B-D♯: 5/2
+
+Both hands use almost the same pattern — a mirror effect.
+Practice separate hands first. Connect each pair of thirds as
+legato as possible. Then combine both hands very slowly.
+
+  TIP
+  Say the 5th-finger note names out loud as you practice:
+  "F, A♯, A♯, F" (RH ascending then descending). This helps
+  lock in the anchor points.
+
+  NOTE
+  You can also play chromatic double thirds using minor thirds.
+  Major thirds are used here because we are playing E major.
+
+
+============================================================
+DOUBLE OCTAVES
+============================================================
+
+05 — Double Octaves
+
+Play E major in double octaves. Apply triplet groupings from the
+Variations section. Start slowly, then increase the tempo.
+
+  TECHNIQUE
+  Don't play with locked hands — this creates tension immediately.
+  Keep the wrists free. Jump from each key and play staccato. To
+  learn how to bounce, the wrist must be relaxed.
+
+
+06 — Double Octave Arpeggios
+
+Play arpeggios in double octaves. Add contrary motion.
+
+  Practice method: Stop on every single note to check accuracy.
+  Then connect pairs of notes. The distances vary greatly between
+  jumps — this is what makes it a great exercise for practicing
+  jumps.
+
+  TIP
+  Practice the outer voices (top and bottom notes only) before
+  playing full double octaves.
+
+
+============================================================
+CHORDS
+============================================================
+
+07 — Chords
+
+Play solid chords with inversions. Start with a smaller chord
+to locate the position, then expand to the full voicing.
+
+  Practice method (from Vienna): Divide the chord into pairs of
+  two notes and practice pressing them together simultaneously.
+  The 3rd finger in the left hand often arrives sooner than the
+  5th finger, creating unevenness — the chord sounds like the
+  fingers are not together. Practicing in pairs eliminates this.
+
+  Variation: Use three-note groups instead of pairs.
+
+  Middle voices exercise: Play the outer voices (octave frame)
+  staccato, then add the middle voices. For variety, try an
+  E major 7th chord. If the stretch is too big, remove one voice.
+
+
+============================================================
+VARIATIONS
+============================================================
+
+(unnumbered card)
+Title: Contrary Motion
+
+Any scale or arpeggio exercise can be played in contrary motion —
+one hand ascending while the other descends simultaneously. This
+is harder than parallel motion and excellent brain training.
+
+
+(unnumbered card)
+Title: Accent & Rhythmic Variations
+
+Apply to any scale or arpeggio exercise for fluidity and evenness:
+
+  a  Accent every second note — grouped, rolling feel.
+  b  Triplet groupings — organize in groups of three.
+  c  Dynamics — crescendo ascending, decrescendo descending.
+
+
+============================================================
+GENERAL PRACTICE PRINCIPLES
+============================================================
+
+— Choose a comfortable tempo — you can always slow down or start
+  with one octave. This is about your practice session.
+
+— Learning positions builds muscle memory, which helps you play
+  with greater accuracy over time.
+
+
+============================================================
+NO HIGHLIGHT CARD
+============================================================
+
+(The transcript does not include a highlight card equivalent.)
+
+
+------------------------------------------------------------
+FOOTER
+------------------------------------------------------------
+
+Scale Practice Worksheet · Piano Exercise Matrix

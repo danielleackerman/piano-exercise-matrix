@@ -1,0 +1,225 @@
+F♯ MINOR — SCALE PRACTICE WORKSHEET DRAFT (v3)
+============================================================
+
+HEADER
+  Title: F♯ Minor
+  Meta: Scale Practice Worksheet · 3 sharps (F♯, C♯, G♯) · Relative minor of A major · 4 octaves
+
+
+------------------------------------------------------------
+PREAMBLE (unnumbered card)
+------------------------------------------------------------
+
+Title: Warming up with Hanon
+
+F♯ minor is a rather unintuitive key. To get familiar with the
+scale before jumping into the main exercises, play Hanon No. 1
+transposed into F♯ harmonic minor. Play in two octaves, slowly.
+
+Hanon No. 1 uses a repeating five-finger pattern: skip a scale
+degree, then four notes up, three notes back down — landing one
+step higher each time. In F♯ harmonic minor the first groups are:
+
+  F♯ A B C♯ D C♯ B A
+  G♯ B C♯ D E♯ D C♯ B
+  A C♯ D E♯ F♯ E♯ D C♯  ...
+
+Continue ascending through two octaves, then reverse the pattern
+back down. The E♯ (raised 7th) is the note that gives harmonic
+minor its character — listen for it as you play through.
+
+
+============================================================
+SCALES
+============================================================
+
+01 — Scale — Harmonic & Melodic Minor
+
+Play F♯ minor across 4 octaves in both forms.
+
+Harmonic minor raises the 7th degree: E becomes E♯.
+
+Melodic minor raises both the 6th and 7th degrees ascending —
+D becomes D♯, E becomes E♯. Descending, remove all added sharps
+and play as natural minor.
+
+Play parallel motion (both hands same direction), then add
+contrary motion.
+
+
+02 — Scale in Tenths — Harmonic Minor
+
+Play F♯ harmonic minor in tenths (octave + third between hands).
+
+Play ascending and descending, then add contrary motion.
+
+  TIP
+  If you are not familiar with the scale, play it in two octaves
+  first.
+
+
+03 — Scale in Tenths — Melodic Minor
+
+Play F♯ melodic minor in tenths.
+
+Ascending: D♯ and E♯. Descending: remove all sharps, descend as
+natural minor.
+
+
+04 — Scale in Sixths — Melodic Minor
+
+Play F♯ melodic minor in the interval of sixths.
+
+  TIP
+  The 4th finger in the right hand requires attention. If the
+  scale feels difficult, slow down and take your time.
+
+
+============================================================
+ARPEGGIOS & CHORDS — TONIC
+============================================================
+
+05 — Four-Note Chords
+
+Play the tonic chord as solid four-note chords to get familiar
+with the chord structure and distances before moving to arpeggios.
+
+  TECHNIQUE
+  The entire arm should be very free at all three joints — wrist,
+  elbow, shoulder. Imagine the hand connecting all the way to the
+  back — always feel that connection. Strong fingers, relaxed hand,
+  flexible wrist.
+
+
+06 — Long Arpeggios
+
+Extended arpeggios starting from F♯ — a black key. Root position,
+1st inversion, 2nd inversion. Start with the 2nd finger and
+connect all notes. Play as legato as possible.
+
+  TECHNIQUE
+  The dangerous spot is the position change after the thumb. Move
+  very quickly to the 4th finger, then prepare the next position
+  immediately — don't get stuck in the previous hand shape.
+  Practice the transition separately if needed.
+
+  TIP
+  1st inversion is much easier because it starts from a white key.
+  2nd inversion is more difficult.
+
+
+============================================================
+SIX-CHORD ARPEGGIOS
+============================================================
+
+07 — Long Six-Chord Arpeggios
+
+Play extended arpeggios through a cycle of six chords in sequence.
+The roman numeral pattern is I – i – VI – ♯vi – IV – iv.
+
+For F♯ minor:
+
+  1) F♯ major  — I    (tonic major, root position)
+  2) F♯ minor  — i    (tonic minor, root position)
+  3) D major   — VI   (1st inversion)
+  4) D♯ minor  — ♯vi  (1st inversion)
+  5) B major   — IV   (2nd inversion)
+  6) B minor   — iv   (2nd inversion)
+
+Play each chord as a long arpeggio across the keyboard before
+moving to the next.
+
+
+============================================================
+ELEVEN LONG CHORDS
+============================================================
+
+08 — Eleven Long Chords
+
+Play extended arpeggios through a cycle of eleven chords in
+sequence, starting from F♯ — a black key. Play each chord as a
+long arpeggio across the keyboard, then move immediately to the
+next without stopping.
+
+The eleven-chord cycle for F♯ minor:
+
+  Tonic:
+   1)  F♯ major  — root position
+   2)  F♯ minor  — root position
+   3)  F♯ major  — 1st inversion
+   4)  F♯ minor  — 1st inversion
+   5)  F♯ major  — 2nd inversion
+   6)  F♯ minor  — 2nd inversion
+
+  Dominant:
+   7)  C♯7       — root position
+   8)  C♯7       — 1st inversion
+   9)  C♯7       — 2nd inversion
+  10)  C♯7       — 3rd inversion
+
+  Diminished:
+  11)  E♯ dim    — 4-note chord (vii°)
+
+  TIP
+  The fingering from a black key is uncomfortable. Choose one
+  fingering position and stick to it — the secret is to play them
+  fast. More comfortable fingerings exist for individual chords
+  (e.g. using 3 instead of 4 in the right hand), but the point is
+  playing all eleven chords in a row without stopping. The full
+  cycle is long — that is the point. These build stamina.
+
+  TIP
+  If you are trying this for the first time, start learning them
+  even if they feel difficult. The discomfort and the length of
+  the cycle are the point. This is one of the best exercises from
+  scales practice. Apply the rhythmic variation from the Variations
+  section below.
+
+
+============================================================
+VARIATIONS
+============================================================
+
+(unnumbered card)
+Title: Contrary Motion
+
+Any scale or arpeggio exercise can be played in contrary motion —
+one hand ascending while the other descends simultaneously. This
+is harder than parallel motion and excellent brain training.
+
+
+(unnumbered card)
+Title: Accent & Rhythmic Variations
+
+Apply to any scale or arpeggio exercise, or to the eleven long
+chords (Exercise 08):
+
+  a  Prolong the 3rd note of each group and accent it.
+
+
+============================================================
+GENERAL PRACTICE PRINCIPLES
+============================================================
+
+— Always warm up slowly — even scales can be dangerous for your
+  hands if you start too fast with cold muscles
+
+— Practicing is about making mistakes — detecting and solving
+  problems is the goal, not being perfect
+
+— When you hit a technical problem, start close to it and solve
+  it on the spot — don't go back to the beginning
+
+
+============================================================
+NO HIGHLIGHT CARD
+============================================================
+
+(The transcript does not include a highlight card equivalent.)
+
+
+------------------------------------------------------------
+FOOTER
+------------------------------------------------------------
+
+Scale Practice Worksheet · Piano Exercise Matrix
