@@ -1,0 +1,222 @@
+G MINOR — SCALE PRACTICE WORKSHEET DRAFT
+Key signature: two flats — B♭, E♭
+Practice in 2 to 4 octaves
+
+
+PREAMBLE
+
+Note on minor scales
+
+Practice the harmonic and melodic forms, not the natural minor alone.
+
+The natural minor in G uses B♭ and E♭ throughout.
+
+The harmonic minor raises the 7th: F♮ becomes F♯.
+
+The melodic minor raises both the 6th and 7th ascending —
+E♭ becomes E♮, F♮ becomes F♯ — and reverts to natural minor
+descending (F♮, E♭ on the way down).
+
+
+SCALES
+
+01  Harmonic Minor — Parallel & Contrary Motion
+Play G harmonic minor up and down in two octaves first, then
+expand to four. The harmonic minor raises the 7th degree:
+F♮ becomes F♯.
+
+Once parallel motion is fluid, add contrary motion — hands
+moving in opposite directions, one ascending while the other
+descends simultaneously.
+
+Tip: Start slow, prioritize evenness over speed.
+
+
+02  Melodic Minor — Parallel & Contrary Motion
+Ascending: raise both the 6th and 7th degrees — E♮, F♯.
+Descending: revert to natural minor — F♮, E♭ on the way back
+down (G – F♮ – E♭ – D – C – B♭ – A – G).
+
+In contrary motion, the ascending hand plays the melodic form
+(with E♮ and F♯) while the descending hand plays the natural
+form (with E♭ and F♮). Two different patterns happen at once —
+then reverse which hand plays which on the return.
+
+
+03  Scale in Tenths
+Play the scale in tenths between the hands. The right hand
+plays a third above the left hand's note, in the octave above —
+the interval is a tenth, which is a third plus an octave. Both
+hands move together up the scale, then add contrary motion on
+a second pass.
+
+Tip: The point of this exercise is listening, not just playing.
+Both hands have to be perfectly aligned. Engage the ear; let
+the hands follow what the ear demands.
+
+
+04  Hanon Variation
+A short turning figure applied to the G minor scale as a warm-up.
+Play a small four-note turn — up and back — on each scale degree
+in turn, working the pattern through the scale up and down.
+Practice each hand separately. Useful for the left hand position
+in particular; the right hand should match the same feel.
+
+Tip: Hanon No. 1 and No. 23 can be substituted in for additional
+finger work in this position. They are particularly good for
+breaking the boredom of straight scale practice while still
+training the same muscles.
+
+
+DOMINANT — D7
+
+05  D7 Chord
+The dominant chord is built on the fifth degree of the scale.
+In G minor, that is D, and the dominant seventh chord is
+D – F♯ – A – C — a major triad with an added minor seventh.
+
+Play the chord as solid four-note chords (triad plus the seventh)
+across the keyboard, with inversions: root, 1st, 2nd, 3rd. To
+get familiar with the shape, first add an octave on top:
+D – F♯ – A – C – D (five notes, triad plus seventh plus octave).
+
+Tip: If the five-note version is too big a stretch, play only
+the four-note D – F♯ – A – C. Keep the wrists flexible and the
+hands free. Avoid lifting the shoulders or locking the elbows
+close to the body — small shoulder movement helps confirm the
+arms are loose.
+
+
+06  D7 Broken Arpeggios
+Play D – F♯ – A – C as a broken arpeggio across the keyboard.
+The chord tones are split into pairs that jump between intervals
+rather than climbing straight through them.
+
+Pattern (grouped in fours, each group spans across octaves):
+
+  D – A – F♯ – C
+  A – D – F♯ – C
+  A – D – C – F♯
+  A – D – C – F♯
+  D – A
+
+— and so on across the keyboard.
+
+Work through all four inversions: root, 1st, 2nd, 3rd. The
+intervals between the chord tones are wide, and the splits
+force the hand to reach.
+
+Tip: Stay in the middle of each key. Avoid sliding inside and
+outside the keys — every unnecessary movement reduces speed.
+Avoid relying on finger stretching alone; include forearm
+rotation and flexible wrists. As the tempo increases, the
+movements become small but they should still be present.
+
+
+DIMINISHED — F♯°7
+
+07  F♯°7 Chord and Arpeggios
+The diminished chord is built on the seventh degree of the
+harmonic minor — the altered seventh, F♯, not F♮. The full
+diminished seventh chord is F♯ – A – C – E♭ (stacked minor
+thirds, four notes). Play as solid chords and as broken
+arpeggios across the keyboard.
+
+
+08  F♯°7 Hand-Crossing — Debussy / Ravel Texture
+Crossing the left hand over the right is a technique used
+constantly in Debussy and Ravel. Applied to the diminished
+arpeggio, it creates a continuous one-hand-sounding line that
+neither hand could produce on its own. The goal is to make the
+sound feel as if a single hand is playing — no unevenness
+between the hands at the crossing point.
+
+The left hand crosses over to the upper register and back
+quickly. Avoid lifting the hands too high during the crossing —
+height costs time. Practice each inversion separately:
+
+  a  Root position
+     F♯ – A – C – E♭. Practice the crossing motion alone first,
+     focusing on the connection at the moment the hands swap.
+
+  b  First inversion
+     A – C – E♭ – F♯. The right hand adds the top note with
+     the 3rd finger.
+
+  c  Second inversion
+     C – E♭ – F♯ – A.
+
+  d  Third inversion
+     E♭ – F♯ – A – C.
+
+  e  Reverse the crossing direction
+     Swap which hand goes on top. Whatever hand was crossing
+     over now stays beneath, and vice versa. Practice both
+     directions on every inversion.
+
+
+RAVEL VARIATION
+
+09  Diminished + F♮ — Ravel Sonority
+A variation of the diminished chord drawn from Ravel's harmonic
+language. Take the F♯°7 chord (F♯ – A – C – E♭) and add F♮.
+The resulting sonority — F♮ – F♯ – A – C – E♭ — is the dreamy,
+mysterious chord that appears throughout Ravel's writing.
+
+Play this five-note chord using the over-hand technique
+established in Exercise 08. The added F♮ creates an extra
+layer of unevenness in the arpeggio that has to be worked
+through deliberately. The aim is a harp-like sound, which
+depends entirely on a smooth transition between the hands.
+
+Tip: A small amount of pedal can support the harp sound here
+once the transition is clean — but the pedal is a finishing
+layer, not a substitute for the work.
+
+
+VARIATIONS
+
+Contrary Motion
+Any scale or arpeggio exercise can be played in contrary
+motion — one hand ascending while the other descends
+simultaneously. Harder than parallel motion and excellent
+brain training.
+
+Accent & Rhythmic Variations
+Apply to any scale or arpeggio exercise for fluidity and
+evenness:
+  a  Accent every note — extra weight on each individual note.
+  b  Accent every second note — grouped, rolling feel.
+  c  Triplet groupings — organize the scale in groups of three.
+  d  Groups of four — organize the scale in groups of four.
+  e  Prolong one note per group — hold the 2nd or 3rd note
+     slightly longer to build control.
+  f  Groups of seven — the scale normally falls in groups of
+     eight, so grouping in sevens shifts the accent and
+     exposes unevenness.
+
+Staccato
+Any scale exercise can be played staccato — lift from each key
+rather than connecting the notes. Treat it as a separate pass,
+not a replacement for legato practice.
+
+
+GENERAL PRACTICE PRINCIPLES
+
+— Scales are not just finger work — listening for hand alignment
+  is the actual goal, especially in tenths and at the moment
+  of crossing in hand-crossed passages
+— Do not practice scales with the pedal down — the pedal masks
+  unevenness and hides the exact spots that need more work;
+  most practice should be dry so the problems are audible
+— Pedal is a finishing layer applied after the technique is
+  clean, not a tool to cover unfinished playing
+— Every unnecessary movement at the keyboard reduces speed —
+  keep motion small, central to each key, and free of lifting
+  or sliding
+— Forearm rotation and flexible wrists do work that finger
+  stretching alone cannot — include them even at high tempo,
+  where the movements become small but stay present
+— Invent variations on the basic patterns to keep practice
+  alive; scales practiced with structured creativity train
+  better than scales practiced from boredom

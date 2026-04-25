@@ -1,0 +1,167 @@
+C MINOR — SCALE PRACTICE WORKSHEET DRAFT
+Key signature: three flats — E♭, A♭, B♭
+Practice in 4 octaves
+
+
+PREAMBLE
+
+A note on minor scales
+
+Practice the harmonic and melodic forms, not the natural minor.
+The natural minor in C uses E♭, A♭, B♭ throughout. The harmonic
+minor raises the 7th: B becomes B natural. The melodic minor
+raises both the 6th and 7th ascending — A becomes A natural,
+B becomes B natural — and reverts to natural minor descending
+(B♭, A♭ on the way down).
+
+
+SCALES
+
+01  Harmonic Minor — Parallel Motion
+Play C harmonic minor up and down with both hands moving in the
+same direction. The harmonic minor raises the 7th degree:
+B is natural, not B♭.
+Tip: Incorporate dynamic shaping. Begin softer, increase the
+volume gradually, then taper back down to piano. Scales are not
+just finger work — train tone control at the same time.
+
+02  Harmonic Minor — Contrary Motion
+Play C harmonic minor with hands moving in opposite directions —
+one ascending, one descending simultaneously.
+
+03  Melodic Minor — Parallel Motion
+Ascending: raise both the 6th and 7th degrees — A natural,
+B natural.
+Descending: revert to natural minor — B♭, A♭ on the way back down
+(C – B♭ – A♭ – G – F – E♭ – D – C).
+
+04  Melodic Minor — Contrary Motion
+Play C melodic minor in contrary motion.
+
+05  Scale in Tenths
+Play the melodic minor scale in tenths — the right hand plays
+one octave higher than the third position between the hands.
+Try both ascending and descending.
+
+
+ARPEGGIOS & CHORDS — TONIC
+
+06  Chords
+Play the C minor tonic chord as solid four-note chords:
+C – E♭ – G – C (triad plus octave).
+The octave frame stabilizes the hand while the inner voices
+(E♭, G) activate the middle fingers. Practice across the
+keyboard with inversions.
+Technique: Think about flexible wrists. By the end of the chord
+work the hand should know the shape — that familiarity carries
+directly into the arpeggios.
+
+07  Chords + Octaves Combined
+Alternate between the full four-note chord and the bare octave
+in continuous motion: chord down, octave up, chord down, octave
+up — repeating across the keyboard. The chord and the octave
+are physically different shapes, and switching between them
+under tempo trains both the grip and the release.
+
+08  Arpeggios
+Play C minor arpeggios — C – E♭ – G — broken across 4 octaves
+in root position and inversions.
+
+09  Broken Arpeggios
+Play the chord tones out of sequential order rather than climbing
+straight through them. Root position pattern: C – G – E♭ – C –
+G – E♭ — repeating across octaves.
+Tip: The first inversion starts from the black key (E♭) and is
+always slightly uncomfortable. Practice it in tempo to expose
+unevenness — the left hand especially. If unevenness shows up,
+isolate the left hand and work it alone before recombining.
+
+10  Long Arpeggios
+Extended arpeggios across the full keyboard. Root position,
+1st inversion, 2nd inversion.
+Technique: The thumb-to-third-finger crossing is the choke point.
+Three drills target it directly:
+
+  Step 1 — Take the note immediately before the crossing and
+           play it together with the third finger faster, then
+           stop on the third finger to feel a moment of relaxation.
+  Step 2 — On the first inversion, prolong the first note of each
+           group. The held first note forces the thumb-to-third
+           crossing to happen quickly, because the change is
+           where the unevenness lives.
+  Step 3 — On the last inversion, remove the two middle notes
+           and leave only the thumb and third finger sounding —
+           but place the rest of the hand in position as if the
+           full dominant chord were going to be played next.
+
+The point of all three drills is preparation. Missed notes happen
+when the hand arrives late. These drills train the hand to be
+ready before it needs to be.
+
+
+DOMINANT — G7
+
+11  G7 Exercises (Chords, Arpeggios, Broken Arpeggios, Long Arpeggios)
+Repeat exercises 6, 8, 9, and 10 using G – B – D – F (V7 of C minor).
+Play through all inversions: root, 1st, 2nd, 3rd. The dominant
+in C minor is built on the same notes as the dominant in C major —
+the V7 chord pulls B natural regardless of the minor key signature.
+
+
+FINISHING
+
+12  Diminished — B°7
+Built on the raised 7th degree of the harmonic minor:
+B – D – F – A♭ (stacked minor thirds, four notes). Apply the
+same arpeggio and chord exercises. To be expanded in later
+sessions.
+
+13  Chromatic Scale
+Play the chromatic scale starting from C across the full
+keyboard. A good way to close out the session.
+
+
+VARIATIONS
+
+Contrary Motion
+Any scale or arpeggio exercise can be played in contrary
+motion — one hand ascending while the other descends
+simultaneously. Harder than parallel motion and excellent
+brain training.
+
+Accent & Rhythmic Variations
+Apply to any scale or arpeggio exercise for fluidity and
+evenness:
+  a  Accent every note — extra weight on each individual note.
+  b  Accent every second note — grouped, rolling feel.
+  c  Triplet groupings — organize the scale in groups of three.
+  d  Groups of four — organize the scale in groups of four.
+  e  Prolong one note per group — hold the 2nd or 3rd note
+     slightly longer to build control.
+  f  Groups of seven — the scale normally falls in groups of
+     eight, so grouping in sevens shifts the accent and
+     exposes unevenness.
+
+Staccato
+Any scale exercise can be played staccato — lift from each key
+rather than connecting the notes. Treat it as a separate pass,
+not a replacement for legato practice.
+
+
+GENERAL PRACTICE PRINCIPLES
+
+— C minor is the most comfortable minor key to start with;
+  the three flats give the fingers black-key landmarks that
+  all-white-key minor scales lack
+— Many things in C minor work exactly the same as in C major —
+  the dominant chord, the diminished chord, and the chromatic
+  scale are shared between the two keys
+— The harmonic minor and melodic minor forms are what give minor
+  scales their technical value; the natural minor is acoustically
+  identical to the relative major and trains nothing new
+— Dynamic shaping belongs inside scale practice, not separate
+  from it — train tone and finger control on the same pass
+— Unevenness shows up first in the left hand; play in tempo to
+  expose it, then isolate the left hand to fix it
+— Most missed notes are preparation failures, not finger failures —
+  the hand arrived at the new position too late
