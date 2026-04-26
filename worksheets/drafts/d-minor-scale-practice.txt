@@ -1,0 +1,184 @@
+D MINOR — SCALE PRACTICE WORKSHEET
+==========================================================
+Key signature: One flat, B♭ · Relative minor of F major · 4 octaves
+
+
+----------------------------------------------------------
+PREAMBLE: RELATIVE VS. PARALLEL KEYS
+----------------------------------------------------------
+
+D minor is the relative minor of F major. Both keys share the same
+key signature — one flat, B♭. A relative key shares the key
+signature; a parallel key shares the root. The parallel minor of
+D major is D minor; the parallel major of F major is F minor.
+Knowing the difference matters when reading and analyzing music.
+
+
+----------------------------------------------------------
+SCALES
+----------------------------------------------------------
+
+01 — Scale, Natural Minor
+
+Play D natural minor up and down across 4 octaves: D – E – F – G – A – B♭ – C – D.
+The natural minor uses the same notes as F major starting from D.
+
+  Tip: This is the foundation. The harmonic and melodic forms below
+  alter specific degrees — practice the natural form first to feel
+  the unaltered shape under the hand.
+
+
+02 — Harmonic Minor
+
+Raise the 7th degree: C becomes C♯. Scale: D – E – F – G – A – B♭ – C♯ – D.
+The raised 7th gives the scale its characteristic minor sound and
+creates a strong leading tone into the tonic.
+
+
+03 — Melodic Minor
+
+Ascending, raise both the 6th and 7th degrees: B♭ becomes B♮, C
+becomes C♯. Ascending scale: D – E – F – G – A – B – C♯ – D.
+Descending, return to the natural form: D – C – B♭ – A – G – F – E – D.
+
+  Tip: The asymmetry between ascending and descending is what makes
+  the melodic minor uniquely valuable for training.
+
+
+04 — Scale in Thirds
+
+Play the scale in intervals of a third — two notes a third apart,
+played together or in succession.
+
+
+05 — Scale in Tenths
+
+Play the scale in tenths between the hands. A tenth feels like a
+third, only an octave higher — the right hand plays one octave above
+the third position.
+
+
+06 — Scale in Sixths
+
+Play the scale in sixths between the hands. The right hand starts on
+D; the left hand starts a sixth below, on F. From there, both hands
+move together through the scale.
+
+
+----------------------------------------------------------
+ARPEGGIOS & CHORDS — TONIC, D MINOR
+----------------------------------------------------------
+
+07 — Tonic Long Arpeggio
+
+Play the tonic chord as a long arpeggio across the keyboard,
+ascending and descending. Practice all three inversions:
+
+  Root position    D – F – A – D
+  1st inversion    F – A – D – F
+  2nd inversion    A – D – F – A
+
+Fingering, root position:
+  RH: 1-2-3-1-2-3-1-2-3-1-2-3-5
+  LH: 5-4-2-1-4-2-1-4-2-1-4-2-1
+
+  Tip: Locate the harmonic function under the hand before playing.
+  Recognizing tonic shape across inversions is the goal — not
+  memorizing notes one at a time.
+
+
+----------------------------------------------------------
+ARPEGGIOS & CHORDS — DOMINANT, A MAJOR
+----------------------------------------------------------
+
+08 — Dominant Chord and Arpeggio
+
+The dominant is built on the 5th degree of the scale: A. The dominant
+chord in D minor is A major. The C♯ comes from the harmonic minor
+scale.
+
+Play each inversion as a solid chord with all notes struck together,
+and as a long arpeggio across the keyboard:
+
+  Root position    A – C♯ – E – A
+  1st inversion    C♯ – E – A – C♯
+  2nd inversion    E – A – C♯ – E
+
+
+----------------------------------------------------------
+ARPEGGIOS & CHORDS — SUBDOMINANT, G MINOR
+----------------------------------------------------------
+
+09 — Subdominant Chord and Arpeggio
+
+The subdominant is built on the 4th degree of the scale: G. The
+subdominant chord in D minor is G minor.
+
+Play each inversion as a solid chord and as a long arpeggio across
+the keyboard:
+
+  Root position    G – B♭ – D – G
+  1st inversion    B♭ – D – G – B♭
+  2nd inversion    D – G – B♭ – D
+
+  Tip: Most music — popular and classical — circles around three
+  basic harmonic functions: tonic, dominant, subdominant.
+  Recognizing them at the keyboard makes pieces easier to learn
+  and memorize.
+
+
+----------------------------------------------------------
+VARIATIONS
+----------------------------------------------------------
+
+Contrary Motion
+
+Any scale or arpeggio exercise can be played in contrary motion —
+one hand ascending while the other descends simultaneously. Harder
+than parallel motion and excellent brain training.
+
+
+Accent & Rhythmic Variations
+
+Apply to any scale or arpeggio exercise for fluidity and evenness:
+
+  a — Accent every note: extra weight on each individual note.
+  b — Accent every second note: grouped, rolling feel.
+  c — Triplet groupings: organize the scale in groups of three.
+  d — Groups of four: organize the scale in groups of four.
+  e — Prolong one note per group: hold the 2nd or 3rd note slightly
+      longer to build control.
+  f — Groups of seven: the scale normally falls in groups of eight,
+      so grouping in sevens shifts the accent and exposes unevenness.
+
+
+Staccato
+
+Any scale exercise can be played staccato — lift from each key rather
+than connecting the notes. Treat it as a separate pass, not a
+replacement for legato practice.
+
+
+----------------------------------------------------------
+GENERAL PRACTICE PRINCIPLES
+----------------------------------------------------------
+
+— Locate harmonic functions — tonic, dominant, subdominant — under
+  the hand before playing through them
+— Recognize chord shapes across all inversions, not just root
+  position
+— Practice scales in multiple intervals: octaves, thirds, sixths,
+  tenths
+— Practice the harmonic and melodic forms, not just the natural
+  minor — the altered tones are where the technical value lives
+— Memorize music in harmonic blocks, not note by note — thinking
+  in chord shapes makes pieces easier to learn and retain
+— Practice each hand separately before combining
+— Apply scales knowledge directly to repertoire: identify the
+  tonic, dominant, subdominant, and any altered chords in the
+  music being learned
+
+
+----------------------------------------------------------
+END OF DRAFT — AWAITING APPROVAL
+----------------------------------------------------------
